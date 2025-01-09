@@ -41,14 +41,3 @@ National First Prize in the China Virtual Reality Competition
 National Second Prize in the Higher Education Press Cup National College Student Mathematical Modeling Competition
 Special Prize in the Jiangxi Province Graduate Student Mathematical Modeling Competition
 First Prize in the Jiangxi Province Computer Works Contest
-
-Master’s Admissions
-------
-Recruiting master’s students in the fields of Computer Graphics, Virtual Reality, and Computer Animation. Preferred foundational skills include C/C++, Calculus, Linear Algebra, and Probability Theory & Mathematical Statistics. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
