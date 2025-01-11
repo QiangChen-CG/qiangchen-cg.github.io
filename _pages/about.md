@@ -68,15 +68,15 @@ title: "Publications"
 layout: default
 permalink: /publications/
 ---
-
 <h1>Publications</h1>
-
 <div class="paper-list">
   {% for paper in site.data.publications %}
   <div class="paper-item">
+    <!-- 左侧图片 -->
     <div class="paper-image">
       <img src="/assets/images/dice.png" alt="Dice Image">
     </div>
+    <!-- 右侧内容 -->
     <div class="paper-content">
       <h3 class="paper-title">DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image</h3>
       <p class="paper-authors">Qingxuan Wu, Zhiyang Dou†, Sirui Xu, Soshi Shimada, Chen Wang, Zhengming Yu, Yuan Liu, Cheng Lin, Zeyu Cao, Taku Komura, Vladislav Golyanik, Christian Theobalt, Wenping Wang, Lingjie Liu†</p>
