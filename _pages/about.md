@@ -73,7 +73,7 @@ Publications
     <div class="paper-content">
       <h3 class="paper-title">DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image</h3>
       <p class="paper-authors">Qingxuan Wu, Zhiyang Dou†, Sirui Xu, Soshi Shimada, Chen Wang, Zhengming Yu, Yuan Liu, Cheng Lin, Zeyu Cao, Taku Komura, Vladislav Golyanik, Christian Theobalt, Wenping Wang, Lingjie Liu†</p>
-      <a href="{{ paper.link }}" class="paper-link" target="_blank">[论文]</a>
+      <a href="/assets/paper/2406.17988v1.pdf" class="paper-link" target="_blank">[论文]</a>
     </div>
   </div>
   <!--{% endfor %}-->
