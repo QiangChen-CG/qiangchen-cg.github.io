@@ -75,7 +75,7 @@ permalink: /publications/
   {% for paper in site.data.publications %}
   <div class="paper-item">
     <div class="paper-image">
-      <img src="2.image" alt="Paper Thumbnail">
+      <img src="/images/2.jpg" alt="Paper Thumbnail">
     </div>
     <div class="paper-content">
       <h3 class="paper-title">DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image</h3>
