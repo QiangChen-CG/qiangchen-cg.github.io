@@ -91,7 +91,7 @@
 }
 
 .paper-item {
-  display: flex;
+  display: flex !important;
   align-items: flex-start;
   margin-bottom: 20px;
 }
