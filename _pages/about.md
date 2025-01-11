@@ -18,25 +18,24 @@ I have also participated in multiple National Natural Science Foundation project
 
 Academic and Professional Services
 ------
-(1)Reviewer for journals including TVCG, CAVW, and CG.  
-(2)Reviewer for academic conferences such as SIGGRAPH Asia and Eurographics.  
-(3)Program Committee Member for the CGI2024 academic conference.  
-(4)Member of the Virtual Reality Special Committee of the China Society of Image and Graphics.  
-(5)Review Expert for General Projects of the National Natural Science Foundation.  
-(6)Expert in the Jiangxi Province Forensic Appraisal Expert Database.  
-(7)Vice Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association. 
+1. Reviewer for journals including TVCG, CAVW, and CG.  
+2. Reviewer for academic conferences such as SIGGRAPH Asia and Eurographics.  
+3. Program Committee Member for the CGI2024 academic conference.  
+4. Member of the Virtual Reality Special Committee of the China Society of Image and Graphics.  
+6. Expert in the Jiangxi Province Forensic Appraisal Expert Database.  
+7. Vice Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association. 
 
 Teaching Achievements
 ------
-(1)Main courses taught: <<Computer Graphics>> and <<Introduction to Virtual Reality>>.  
-(2)Published one teaching reform paper, authored one monograph, and one textbook.  
-(3)Led one university-level teaching project.  
-(4)Awarded First Prize in the university finals and Third Prize at the provincial level in the 6th Jiangxi Province University Young Teachers Teaching Competition, as well as the Special Prize in the university-level competition of the 4th National University Teachers Teaching Innovation Competition (Industry-Education Integration Track).
+1. Main courses taught: <<Computer Graphics>> and <<Introduction to Virtual Reality>>.  
+2. Published one teaching reform paper, authored one monograph, and one textbook.  
+3. Led one university-level teaching project.  
+4. Awarded First Prize in the university finals and Third Prize at the provincial level in the 6th Jiangxi Province University Young Teachers Teaching Competition, as well as the Special Prize in the university-level competition of the 4th National University Teachers Teaching Innovation Competition (Industry-Education Integration Track).
 
 Student Competition Mentorship
 ------
 Guided students to repeatedly win top honors, including:  
-(1)National First Prize in the China Virtual Reality Competition.  
-(2)National Second Prize in the Higher Education Press Cup National College Student Mathematical Modeling Competition.  
-(3)Special Prize in the Jiangxi Province Graduate Student Mathematical Modeling Competition.  
-(4)First Prize in the Jiangxi Province Computer Works Contest
+1. National First Prize in the China Virtual Reality Competition.  
+2. National Second Prize in the Higher Education Press Cup National College Student Mathematical Modeling Competition.  
+3. Special Prize in the Jiangxi Province Graduate Student Mathematical Modeling Competition.  
+4. First Prize in the Jiangxi Province Computer Works Contest
