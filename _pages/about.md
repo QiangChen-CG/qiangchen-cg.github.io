@@ -12,7 +12,9 @@ My research interests lie in the interdisciplinary fields of Virtual Reality (VR
 
 Research Achievements
 ======
-In recent years, I have published over 10 academic journal and conference papers in prestigious international venues, including **ACM SIGGRAPH**, **ACM Transactions on Graphics (TOG)**, and **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. I have been granted **more than 10 invention patents**. Additionally, I have led one project funded by the **National Natural Science Foundation**, one project funded by the **Jiangxi Provincial Natural Science Foundation**, and **three other provincial-level projects**. I have also participated in multiple National Natural Science Foundation projects as well as provincial and ministerial-level projects.
+In recent years, I have published over 10 academic journal and conference papers in prestigious international venues, including **ACM SIGGRAPH**, **ACM Transactions on Graphics (TOG)**, and **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. I have been granted **more than 10 invention patents**.  
+Additionally, I have led one project funded by the **National Natural Science Foundation**, one project funded by the **Jiangxi Provincial Natural Science Foundation**, and **three other provincial-level projects**.  
+I have also participated in multiple National Natural Science Foundation projects as well as provincial and ministerial-level projects.
 
 Academic and Professional Services
 ------
