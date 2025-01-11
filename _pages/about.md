@@ -38,7 +38,7 @@ Guided students to repeatedly win top honors, including:
 1. National First Prize in the China Virtual Reality Competition.  
 2. National Second Prize in the Higher Education Press Cup National College Student Mathematical Modeling Competition.  
 3. Special Prize in the Jiangxi Province Graduate Student Mathematical Modeling Competition.  
-4. First Prize in the Jiangxi Province Computer Works Contest
+4. First Prize in the Jiangxi Province Computer Works Contest.
 
 Research project
 ------
@@ -47,3 +47,7 @@ Research project
 3. Jiangxi Provincial Department of Education Science and Technology Research Project, **"Simulation Research on the Impact of Physical Environment on High-Density Crowds"**, Project No. GJJ201511, Duration: January 2022 - December 2023, Completed, Principal Investigator.
 4. Jiangxi Provincial Department of Education Science and Technology Research Project, **"Macroscopic Modeling and Evaluation Methods for Large-Scale Crowds Based on Fluid Dynamics"**, Project No. GJJ207109, Duration: January 2021 - December 2022, Completed, Principal Investigator.
 5. Jiangxi Provincial Graduate Innovation Fund Project, **"Research on Deformation Animation of Biological Groups"**, Jiangxi Provincial Department of Education, 2018, Completed, Principal Investigator.
+
+Monograph/Textbook
+------
+1. Monograph: **"Agent Simulation Algorithms Based on Fluid Models"**, China Railway Publishing House, Qiang Chen, May 2022.05.
