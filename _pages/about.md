@@ -63,14 +63,8 @@ Invention Patent
 
 Publications
 ------
----
-title: "Publications"
-layout: default
-permalink: /publications/
----
 <h1>Publications</h1>
 <div class="paper-list">
-  {% for paper in site.data.publications %}
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
@@ -83,7 +77,7 @@ permalink: /publications/
       <a href="{{ paper.link }}" class="paper-link" target="_blank">[论文]</a>
     </div>
   </div>
-  {% endfor %}
+  <!--{% endfor %}-->
 </div>
 
 
