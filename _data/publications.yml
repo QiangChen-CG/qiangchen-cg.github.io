@@ -1,6 +1,6 @@
-- title: "DICE: 从单一图像中端到端的手脸交互变形捕捉"
+- title: "DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image"
   authors: "Qingxuan Wu, Zhiyang Dou†, Sirui Xu, Soshi Shimada, Chen Wang, Zhengming Yu, Yuan Liu, Cheng Lin, Zeyu Cao, Taku Komura, Vladislav Golyanik, Christian Theobalt, Wenping Wang, Lingjie Liu"
-  image: "/assets/images/dice-thumbnail.jpg"
+  image: "/assets/images/dice.png"
   link: "/assets/papers/dice-paper.pdf"
 
 - title: "Another Research Paper"
