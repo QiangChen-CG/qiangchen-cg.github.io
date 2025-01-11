@@ -19,11 +19,17 @@ In recent years, I have published over 10 academic journal and conference papers
 Academic and Professional Services
 ------
 (1)Reviewer for journals including TVCG, CAVW, and CG.
+
 (2)Reviewer for academic conferences such as SIGGRAPH Asia and Eurographics.
+
 (3)Program Committee Member for the CGI2024 academic conference.
+
 (4)Member of the Virtual Reality Special Committee of the China Society of Image and Graphics.
+
 (5)Review Expert for General Projects of the National Natural Science Foundation.
+
 (6)Expert in the Jiangxi Province Forensic Appraisal Expert Database.
+
 (7)Vice Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association. 
 
 Teaching Achievements
