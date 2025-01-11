@@ -1,1 +1,10 @@
+- title: "DICE: 从单一图像中端到端的手脸交互变形捕捉"
+  authors: "Qingxuan Wu, Zhiyang Dou†, Sirui Xu, Soshi Shimada, Chen Wang, Zhengming Yu, Yuan Liu, Cheng Lin, Zeyu Cao, Taku Komura, Vladislav Golyanik, Christian Theobalt, Wenping Wang, Lingjie Liu"
+  image: "/assets/images/dice-thumbnail.jpg"
+  link: "/assets/papers/dice-paper.pdf"
+
+- title: "Another Research Paper"
+  authors: "Author A, Author B, Author C"
+  image: "/assets/images/another-thumbnail.jpg"
+  link: "/assets/papers/another-paper.pdf"
 
