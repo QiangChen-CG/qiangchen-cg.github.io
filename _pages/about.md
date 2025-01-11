@@ -42,11 +42,11 @@ Guided students to repeatedly win top honors, including:
 
 Research project
 ------
-1. National Natural Science Foundation Project, **"Research on Data-Driven Flexible Deformation and Flight Simulation of Butterflies"**, Project No. 62262024, Duration: January 2023 - December 2026, Ongoing, Principal Investigator.
-2. Jiangxi Provincial Natural Science Foundation Project, **"Research on Aerodynamics-Based Dynamic Simulation and Posture Generation of Flying Insects"**, Project No. 20232BAB202023, Duration: July 2023 - July 2026, Ongoing, Principal Investigator.
-3. Jiangxi Provincial Department of Education Science and Technology Research Project, **"Simulation Research on the Impact of Physical Environment on High-Density Crowds"**, Project No. GJJ201511, Duration: January 2022 - December 2023, Completed, Principal Investigator.
-4. Jiangxi Provincial Department of Education Science and Technology Research Project, **"Macroscopic Modeling and Evaluation Methods for Large-Scale Crowds Based on Fluid Dynamics"**, Project No. GJJ207109, Duration: January 2021 - December 2022, Completed, Principal Investigator.
-5. Jiangxi Provincial Graduate Innovation Fund Project, **"Research on Deformation Animation of Biological Groups"**, Jiangxi Provincial Department of Education, 2018, Completed, Principal Investigator.
+1. National Natural Science Foundation Project, **"*Research on Data-Driven Flexible Deformation and Flight Simulation of Butterflies*"**, Project No. 62262024, Duration: January 2023 - December 2026, Ongoing, Principal Investigator.
+2. Jiangxi Provincial Natural Science Foundation Project, **"*Research on Aerodynamics-Based Dynamic Simulation and Posture Generation of Flying Insects*"**, Project No. 20232BAB202023, Duration: July 2023 - July 2026, Ongoing, Principal Investigator.
+3. Jiangxi Provincial Department of Education Science and Technology Research Project, **"*Simulation Research on the Impact of Physical Environment on High-Density Crowds*"**, Project No. GJJ201511, Duration: January 2022 - December 2023, Completed, Principal Investigator.
+4. Jiangxi Provincial Department of Education Science and Technology Research Project, **"*Macroscopic Modeling and Evaluation Methods for Large-Scale Crowds Based on Fluid Dynamics*"**, Project No. GJJ207109, Duration: January 2021 - December 2022, Completed, Principal Investigator.
+5. Jiangxi Provincial Graduate Innovation Fund Project, **"*Research on Deformation Animation of Biological Groups*"**, Jiangxi Provincial Department of Education, 2018, Completed, Principal Investigator.
 
 Monograph/Textbook
 ------
