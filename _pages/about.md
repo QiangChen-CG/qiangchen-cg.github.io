@@ -50,4 +50,4 @@ Research project
 
 Monograph/Textbook
 ------
-1. Monograph: **"Agent Simulation Algorithms Based on Fluid Models"**, China Railway Publishing House, Qiang Chen, May 2022.05.
+1. Monograph: "*Agent Simulation Algorithms Based on Fluid Models*", China Railway Publishing House, Qiang Chen, May 2022.05.
