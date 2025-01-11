@@ -51,3 +51,12 @@ Research project
 Monograph/Textbook
 ------
 1. Monograph: **"*Agent Simulation Algorithms Based on Fluid Models*"**, China Railway Publishing House, Qiang Chen, May 2022.05.
+
+Invention Patent
+------
+1. **Qiang Chen**, Wenxu Guo, Yuming Fang, et al., "*A Virtual Bee Flight Control Method*". September 2023, China, Patent No. 202311148614.X (Invention Patent, Authorized).
+2. **Qiang Chen**, Feng Li, Yuming Fang, et al., "*A Skeleton-Driven Simulation Method for Wing Deformation of Flying Insects*". July 2023, China, Patent No. 202310876202.1 (Invention Patent, Authorized).
+3. **Qiang Chen**, Feng Li, Tingsong Lu, Yuming Fang, Wenxu Guo, "*Data Processing Method and System for Motion Capture of Lepidopteran Insects*", July 2022, China, Patent No. 202210900490.5 (Invention Patent, Authorized).
+4. Guoliang Luo, Tingsong Lu, **Qiang Chen**, et al., "*Simulation and Control Method, System, and Readable Storage Medium for Lepidopteran Insects*", May 2021, China, Patent No. 202110508065.7 (Invention Patent, Authorized).
+5. **Qiang Chen**, Guoliang Luo, Yang Tong, "*Polarization Linear Wave Simulation Method, System, and Readable Storage Medium for High-Density Crowds*", November 2020, China, Patent No. 202010637889.X (Invention Patent, Authorized).
+6. Guoliang Luo, **Qiang Chen**, et al., "*A Large-Scale 3D Face Synthesis System with Sample Similarity Suppression*", June 2020, China, Patent No. 202010612054.9 (Invention Patent, Authorized).
