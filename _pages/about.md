@@ -63,7 +63,6 @@ Invention Patent
 
 Publications
 ------
-<h1>Publications</h1>
 <div class="paper-list">
   <div class="paper-item">
     <!-- 左侧图片 -->
