@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a master's and Ph.D. advisor at the School of Computer Science and Artificial Intelligence, Jiangxi University of Finance and Economics. Previously, I was a lecturer at the School of Software, Nanchang University, and conducted a visiting study at the National Key Laboratory of CAD&CG, Zhejiang University, in 2018.
+
+I obtained my Ph.D. in Control Science and Engineering from East China Jiaotong University and earned both my Master's and Bachelor's degrees in Software Engineering from Nanchang University.
 
 Research Interests and Academic Background
 ======
