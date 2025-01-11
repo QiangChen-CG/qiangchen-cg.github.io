@@ -60,3 +60,7 @@ Invention Patent
 4. Guoliang Luo, Tingsong Lu, **Qiang Chen**, et al., **"*Simulation and Control Method, System, and Readable Storage Medium for Lepidopteran Insects*"**, May 2021, China, Patent No. 202110508065.7 (Invention Patent, Authorized).
 5. **Qiang Chen**, Guoliang Luo, Yang Tong, **"*Polarization Linear Wave Simulation Method, System, and Readable Storage Medium for High-Density Crowds*"**, November 2020, China, Patent No. 202010637889.X (Invention Patent, Authorized).
 6. Guoliang Luo, **Qiang Chen**, et al., **"*A Large-Scale 3D Face Synthesis System with Sample Similarity Suppression*"**, June 2020, China, Patent No. 202010612054.9 (Invention Patent, Authorized).
+
+Publications
+------
+
