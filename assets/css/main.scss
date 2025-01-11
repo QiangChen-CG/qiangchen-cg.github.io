@@ -40,52 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.header {
-  background-image: url('assets/images/background.jpg');
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  text-align: center;
-}
-
-.profile-photo img {
-  border-radius: 50%;
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  border: 5px solid white;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  margin-bottom: 20px;
-}
-
-.header-content h1 {
-  font-size: 3rem;
-}
-
-.header-content h3 {
-  font-size: 1.5rem;
-}
-
-.header-content p {
-  margin: 10px 0;
-  line-height: 1.6;
-}
-
-.links a {
-  color: #ffcc00;
-  text-decoration: none;
-  margin: 0 10px;
-}
-
-.links a:hover {
-  text-decoration: underline;
-}
-
 .paper-list {
   margin: 20px 0;
 }
