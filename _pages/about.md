@@ -63,4 +63,27 @@ Invention Patent
 
 Publications
 ------
+---
+title: "Publications"
+layout: default
+permalink: /publications/
+---
+
+<h1>Publications</h1>
+
+<div class="paper-list">
+  {% for paper in site.data.publications %}
+  <div class="paper-item">
+    <div class="paper-image">
+      <img src="{{ paper.image }}" alt="Paper Thumbnail">
+    </div>
+    <div class="paper-content">
+      <h3 class="paper-title">{{ paper.title }}</h3>
+      <p class="paper-authors">{{ paper.authors }}</p>
+      <a href="{{ paper.link }}" class="paper-link" target="_blank">[论文]</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
 
