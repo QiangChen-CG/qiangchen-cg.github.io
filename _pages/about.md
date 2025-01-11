@@ -34,10 +34,13 @@ Academic and Professional Services
 
 Teaching Achievements
 ------
-Main courses taught: Computer Graphics and Introduction to Virtual Reality
-Published one teaching reform paper, authored one monograph, and one textbook
-Led one university-level teaching project
-Awarded First Prize in the university finals and Third Prize at the provincial level in the 6th Jiangxi Province University Young Teachers Teaching Competition, as well as the Special Prize in the university-level competition of the 4th National University Teachers Teaching Innovation Competition (Industry-Education Integration Track).
+(1)Main courses taught: <<Computer Graphics>> and <<Introduction to Virtual Reality>>.
+
+(2)Published one teaching reform paper, authored one monograph, and one textbook.
+
+(3)Led one university-level teaching project.
+
+(4)Awarded First Prize in the university finals and Third Prize at the provincial level in the 6th Jiangxi Province University Young Teachers Teaching Competition, as well as the Special Prize in the university-level competition of the 4th National University Teachers Teaching Innovation Competition (Industry-Education Integration Track).
 
 Student Competition Mentorship
 ------
