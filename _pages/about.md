@@ -16,17 +16,15 @@ Research Achievements
 ======
 In recent years, I have published over 10 academic journal and conference papers in prestigious international venues, including **ACM SIGGRAPH**, **ACM Transactions on Graphics (TOG)**, and **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. I have been granted **more than 10 invention patents**. Additionally, I have led one project funded by the **National Natural Science Foundation**, one project funded by the **Jiangxi Provincial Natural Science Foundation**, and **three other provincial-level projects**. I have also participated in multiple National Natural Science Foundation projects as well as provincial and ministerial-level projects.
 
-
-
 Academic and Professional Services
 ------
-Reviewer for journals including TVCG, CAVW, and CG.
-Reviewer for academic conferences such as SIGGRAPH Asia and Eurographics.
-Program Committee Member for the CGI2024 academic conference.
-Member of the Virtual Reality Special Committee of the China Society of Image and Graphics.
-Review Expert for General Projects of the National Natural Science Foundation.
-Expert in the Jiangxi Province Forensic Appraisal Expert Database.
-Vice Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association. 
+(1)Reviewer for journals including TVCG, CAVW, and CG.
+(2)Reviewer for academic conferences such as SIGGRAPH Asia and Eurographics.
+(3)Program Committee Member for the CGI2024 academic conference.
+(4)Member of the Virtual Reality Special Committee of the China Society of Image and Graphics.
+(5)Review Expert for General Projects of the National Natural Science Foundation.
+(6)Expert in the Jiangxi Province Forensic Appraisal Expert Database.
+(7)Vice Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association. 
 
 Teaching Achievements
 ------
