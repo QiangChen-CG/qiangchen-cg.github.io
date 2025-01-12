@@ -1,10 +1,46 @@
 - title: "Real-time Wing Deformation Simulations for Flying Insects"
-  authors: "Qiang Chen, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo"
+  authors: "Qiang Chen, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo."
   image: "assets/images/Real-time Wing Deformation Simulations for Flying Insects.png"
   link: "assets/paper/Real-time Wing Deformation Simulations for Flying Insects.pdf"
 
-- title: "Another Research Paper"
-  authors: "Author A, Author B, Author C"
+- title: "A Bio-inspired Model for Bee Simulations"
+  authors: "Qiang Chen, Wenxu Guo, Yuming Fang, Yang Tong, Tingsong Lu, Xiaogang Jin, and Zhigang Deng."
   image: "/assets/images/another-thumbnail.jpg"
   link: "/assets/papers/another-paper.pdf"
+
+- title: "Crowd evacuation simulation in flowing fluids"
+  authors: "Xunjin Zou, Yunqing Ye, Zhenming Zhu, Qiang Chen*."
+  image: "/assets/images/another-thumbnail.jpg"
+  link: "/assets/papers/another-paper.pdf"
+
+- title: "A Practical Method for Butterfly Motion Capture"
+  authors: "Qiang Chen, Lu T, Tong Y, et al."
+  image: "/assets/images/another-thumbnail.jpg"
+  link: "/assets/papers/another-paper.pdf"
+
+- title: "A Practical Model for Realistic Butterfly Flight Simulation"
+  authors: "Qiang Chen, Tingsong Lu, Yang Tong, Guoliang Luo, Xiaogang Jin, Zhigang Deng."
+  image: "/assets/images/another-thumbnail.jpg"
+  link: "/assets/papers/another-paper.pdf"
+
+- title: "A linear wave propagation‐based simulation model for dense and polarized crowds[J]. Computer Animation and Virtual Worlds"
+  authors: "Qiang Chen, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng."
+  image: "/assets/images/another-thumbnail.jpg"
+  link: "/assets/papers/another-paper.pdf"
+
+- title: "Shape-constrained flying insects animation"
+  authors: "Qiang Chen, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng."
+  image: "/assets/images/another-thumbnail.jpg"
+  link: "/assets/papers/another-paper.pdf"
+
+- title: "Geometry Sampling for 3D Face Generation via DCGAN"
+  authors: "Guoliang Luo, Xin Zhao, Yang Tong, Qiang Chen, Zhiliang Zhu, Haopeng Lei and Juncong Lin."
+  image: "/assets/images/another-thumbnail.jpg"
+  link: "/assets/papers/another-paper.pdf"
+
+- title: "The Action Consistency of Casting in Virtual Environment"
+  authors: "Guoliang Luo, Zeiwei Guan, Guoming Xiong, Qiang Chen etc."
+  image: "/assets/images/another-thumbnail.jpg"
+  link: "/assets/papers/another-paper.pdf"
+
 
