@@ -67,15 +67,29 @@ Publications
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/dice.png" alt="Dice Image" style="width: 500px; height: auto;">
+      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image" style="width: 500px; height: auto;">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
-      <h3 class="paper-title">DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image</h3>
-      <p class="paper-authors">Qingxuan Wu, Zhiyang Dou†, Sirui Xu, Soshi Shimada, Chen Wang, Zhengming Yu, Yuan Liu, Cheng Lin, Zeyu Cao, Taku Komura, Vladislav Golyanik, Christian Theobalt, Wenping Wang, Lingjie Liu†</p>
-      <a href="/assets/paper/2406.17988v1.pdf" class="paper-link" target="_blank">[论文]</a>
+      <h3 class="paper-title">Real-time Wing Deformation Simulations for Flying Insects</h3>
+      <p class="paper-authors">**Qiang Chen**, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo.</p>
+      <a href="/assets/paper/Real-time Wing Deformation Simulations for Flying Insects.pdf" class="paper-link" target="_blank">[论文]</a>
     </div>
   </div>
 </div>
-
+------
+<div class="paper-list">
+  <div class="paper-item">
+    <!-- 左侧图片 -->
+    <div class="paper-image">
+      <img src="/assets/images/A Bio-inspired Model for Bee Simulations.png" alt="Dice Image" style="width: 500px; height: auto;">
+    </div>
+    <!-- 右侧内容 -->
+    <div class="paper-content">
+      <h3 class="paper-title">A Bio-inspired Model for Bee Simulations</h3>
+      <p class="paper-authors">**Qiang Chen**, Wenxu Guo, Yuming Fang, Yang Tong, Tingsong Lu, Xiaogang Jin, and Zhigang Deng.</p>
+      <a href="/assets/paper/A Bio-inspired Model for Bee Simulations.pdf" class="paper-link" target="_blank">[论文]</a>
+    </div>
+  </div>
+</div>
 
