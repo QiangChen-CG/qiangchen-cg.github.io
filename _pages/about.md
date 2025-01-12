@@ -92,4 +92,109 @@ Publications
     </div>
   </div>
 </div>
+------
+<div class="paper-list">
+  <div class="paper-item">
+    <!-- 左侧图片 -->
+    <div class="paper-image">
+      <img src="/assets/images/Crowd evacuation simulation in flowing fluids.png" alt="Dice Image" style="width: 500px; height: auto;">
+    </div>
+    <!-- 右侧内容 -->
+    <div class="paper-content">
+      <h3 class="paper-title">Crowd evacuation simulation in flowing fluids</h3>
+      <p class="paper-authors">Xunjin Zou, Yunqing Ye, Zhenming Zhu, <strong>Qiang Chen*</strong>.</p>
+      <a href="/assets/paper/Crowd evacuation simulation in flowing fluids.pdf" class="paper-link" target="_blank">[论文]</a>
+    </div>
+  </div>
+</div>
+------
+<div class="paper-list">
+  <div class="paper-item">
+    <!-- 左侧图片 -->
+    <div class="paper-image">
+      <img src="/assets/images/A Practical Method for Butterfly Motion Capture.png" alt="Dice Image" style="width: 500px; height: auto;">
+    </div>
+    <!-- 右侧内容 -->
+    <div class="paper-content">
+      <h3 class="paper-title">A Practical Method for Butterfly Motion Capture</h3>
+      <p class="paper-authors"><strong>Qiang Chen</strong>, Lu T, Tong Y, et al.</p>
+      <a href="/assets/paper/A Practical Method for Butterfly Motion Capture.pdf" class="paper-link" target="_blank">[论文]</a>
+    </div>
+  </div>
+</div>
+------
+<div class="paper-list">
+  <div class="paper-item">
+    <!-- 左侧图片 -->
+    <div class="paper-image">
+      <img src="/assets/images/A Practical Model for Realistic Butterfly Flight Simulation.png" alt="Dice Image" style="width: 500px; height: auto;">
+    </div>
+    <!-- 右侧内容 -->
+    <div class="paper-content">
+      <h3 class="paper-title">A Practical Model for Realistic Butterfly Flight Simulation</h3>
+      <p class="paper-authors"><strong>Qiang Chen</strong>, Tingsong Lu, Yang Tong, Guoliang Luo, Xiaogang Jin, Zhigang Deng.</p>
+      <a href="/assets/paper/A Practical Model for Realistic Butterfly Flight Simulation.pdf" class="paper-link" target="_blank">[论文]</a>
+    </div>
+  </div>
+</div>
+------
+<div class="paper-list">
+  <div class="paper-item">
+    <!-- 左侧图片 -->
+    <div class="paper-image">
+      <img src="/assets/images/A linear wave propagation‐based simulation model for dense and polarized crowds.png" alt="Dice Image" style="width: 500px; height: auto;">
+    </div>
+    <!-- 右侧内容 -->
+    <div class="paper-content">
+      <h3 class="paper-title">A linear wave propagation‐based simulation model for dense and polarized crowds</h3>
+      <p class="paper-authors"><strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng.</p>
+      <a href="/assets/paper/A linear wave propagation‐based simulation model for dense and polarized crowds.pdf" class="paper-link" target="_blank">[论文]</a>
+    </div>
+  </div>
+</div>
+------
+<div class="paper-list">
+  <div class="paper-item">
+    <!-- 左侧图片 -->
+    <div class="paper-image">
+      <img src="/assets/images/Shape-constrained flying insects animation.png" alt="Dice Image" style="width: 500px; height: auto;">
+    </div>
+    <!-- 右侧内容 -->
+    <div class="paper-content">
+      <h3 class="paper-title">Shape-constrained flying insects animation</h3>
+      <p class="paper-authors"><strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng.</p>
+      <a href="/assets/paper/Shape-constrained flying insects animation.pdf" class="paper-link" target="_blank">[论文]</a>
+    </div>
+  </div>
+</div>
+------
+<div class="paper-list">
+  <div class="paper-item">
+    <!-- 左侧图片 -->
+    <div class="paper-image">
+      <img src="/assets/images/Geometry Sampling for 3D Face Generation via DCGAN.png" alt="Dice Image" style="width: 500px; height: auto;">
+    </div>
+    <!-- 右侧内容 -->
+    <div class="paper-content">
+      <h3 class="paper-title">Geometry Sampling for 3D Face Generation via DCGAN</h3>
+      <p class="paper-authors">Guoliang Luo, Xin Zhao, Yang Tong, <strong>Qiang Chen</strong>, Zhiliang Zhu, Haopeng Lei and Juncong Lin.</p>
+      <a href="/assets/paper/Geometry Sampling for 3D Face Generation via DCGAN.pdf" class="paper-link" target="_blank">[论文]</a>
+    </div>
+  </div>
+</div>
+------
+<div class="paper-list">
+  <div class="paper-item">
+    <!-- 左侧图片 -->
+    <div class="paper-image">
+      <img src="/assets/images/The Action Consistency of Casting in Virtual Environment.png" alt="Dice Image" style="width: 500px; height: auto;">
+    </div>
+    <!-- 右侧内容 -->
+    <div class="paper-content">
+      <h3 class="paper-title">The Action Consistency of Casting in Virtual Environment</h3>
+      <p class="paper-authors">Guoliang Luo, Zeiwei Guan, Guoming Xiong, <strong>Qiang Chen</strong> etc.</p>
+      <a href="/assets/paper/The Action Consistency of Casting in Virtual Environment.pdf" class="paper-link" target="_blank">[论文]</a>
+    </div>
+  </div>
+</div>
 
