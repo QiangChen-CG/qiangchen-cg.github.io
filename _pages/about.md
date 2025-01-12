@@ -67,7 +67,7 @@ Publications
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/dice.png" alt="Dice Image">
+      <img src="/assets/images/dice.png">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
