@@ -47,11 +47,10 @@
 }
 
 .paper-image img {
-  width: 150px; /* 缩小图片宽度 */
-  height: auto; /* 自动调整高度 */
-  border: 1px solid #ddd; /* 添加边框美化 */
-  border-radius: 5px; /* 添加圆角 */
-  margin-right: 20px; /* 图片和文字之间的间距 */
+    width: 150px; /* 调整宽度，例如从 150px 增大 */
+    height: auto; /* 确保图片的比例不失真 */
+    border: 1px solid #ddd;
+    border-radius: 5px;
 }
 
 .paper-content {
