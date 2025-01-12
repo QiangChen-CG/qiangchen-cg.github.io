@@ -72,7 +72,7 @@ Publications
     <!-- 右侧内容 -->
     <div class="paper-content">
       <h3 class="paper-title">Real-time Wing Deformation Simulations for Flying Insects</h3>
-      <p class="paper-authors">**Qiang Chen**, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo.</p>
+      <p class="paper-authors"> **Qiang Chen** , Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo.</p>
       <a href="/assets/paper/Real-time Wing Deformation Simulations for Flying Insects.pdf" class="paper-link" target="_blank">[论文]</a>
     </div>
   </div>
@@ -87,7 +87,7 @@ Publications
     <!-- 右侧内容 -->
     <div class="paper-content">
       <h3 class="paper-title">A Bio-inspired Model for Bee Simulations</h3>
-      <p class="paper-authors">**Qiang Chen**, Wenxu Guo, Yuming Fang, Yang Tong, Tingsong Lu, Xiaogang Jin, and Zhigang Deng.</p>
+      <p class="paper-authors"> **Qiang Chen** , Wenxu Guo, Yuming Fang, Yang Tong, Tingsong Lu, Xiaogang Jin, and Zhigang Deng.</p>
       <a href="/assets/paper/A Bio-inspired Model for Bee Simulations.pdf" class="paper-link" target="_blank">[论文]</a>
     </div>
   </div>
