@@ -12,7 +12,7 @@ My research interests lie in the interdisciplinary fields of Virtual Reality (VR
 
 <section id="Achievements">
   <h1>Research Achievements.</h1>
-  <hr> <!-- 使用 <hr> 添加水平分隔线 -->
+ <!-- <hr> <!-- 使用 <hr> 添加水平分隔线 -->
   <p>
     In recent years, I have published over 10 academic journal and conference papers in prestigious international venues, including:
   </p>
