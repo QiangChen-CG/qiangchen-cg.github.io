@@ -12,21 +12,27 @@ My research interests lie in the interdisciplinary fields of Virtual Reality (VR
 
 <section id="Achievements">
   <h1>Research Achievements</h1>
-  <p>In recent years, I have published over 10 academic journal and conference papers in prestigious international venues, including:</p>
+  <hr> <!-- 使用 <hr> 添加水平分隔线 -->
+  <p>
+    In recent years, I have published over 10 academic journal and conference papers in prestigious international venues, including:
+  </p>
   <ul>
     <li><strong>ACM SIGGRAPH</strong></li>
     <li><strong>ACM Transactions on Graphics (TOG)</strong></li>
     <li><strong>IEEE Transactions on Visualization and Computer Graphics (TVCG)</strong></li>
   </ul>
-  <p>I have also been granted <strong>more than 10 invention patents</strong>.</p>
-  
-  <h2>Research Projects</h2>
-  <p>Additionally, I have led the following projects:</p>
-  <ul>
-    <li>One project funded by the <strong>National Natural Science Foundation</strong>.</li>
-    <li>One project funded by the <strong>Jiangxi Provincial Natural Science Foundation</strong>.</li>
-    <li><strong>Three other provincial-level projects</strong>.</li>
-  </ul>
+  <p>
+    I have also been granted <strong>more than 10 invention patents</strong>.
+  </p>
+  <p>
+    Additionally, I have led one project funded by the <strong>National Natural Science Foundation</strong>,
+    one project funded by the <strong>Jiangxi Provincial Natural Science Foundation</strong>,
+    and <strong>three other provincial-level projects</strong>.
+  </p>
+  <p>
+    I have also participated in multiple National Natural Science Foundation projects as well as provincial and ministerial-level projects.
+  </p>
+</section>
   
   <p>I have also participated in multiple National Natural Science Foundation projects as well as other provincial and ministerial-level projects.</p>
 </section>
