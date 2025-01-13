@@ -202,7 +202,6 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <div class="paper-image">
        <img src="/assets/images/aaa.png" 
            alt="A Bio-inspired Model for Bee Simulations"
            >
@@ -215,7 +214,7 @@ redirect_from:
     </div>
   </div>
 </div>
-</div>
+
 
 <div class="paper-list">
   <div class="paper-item">
