@@ -32,8 +32,6 @@ My research interests lie in the interdisciplinary fields of Virtual Reality (VR
   <p>
     I have also participated in multiple National Natural Science Foundation projects as well as provincial and ministerial-level projects.
   </p>
-</section>
-  
   <p>I have also participated in multiple National Natural Science Foundation projects as well as other provincial and ministerial-level projects.</p>
 </section>
 
