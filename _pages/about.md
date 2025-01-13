@@ -6,24 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<section id="About">
+  <p>
 I am a master's and Ph.D. advisor at the School of Computer Science and Artificial Intelligence, Jiangxi University of Finance and Economics. Previously, I was a lecturer at the School of Software, Nanchang University, and conducted a visiting study at the National Key Laboratory of CAD&CG, Zhejiang University, in 2018.  
 I obtained my Ph.D. in Control Science and Engineering from East China Jiaotong University and earned both my Master's and Bachelor's degrees in Software Engineering from Nanchang University.  
 My research interests lie in the interdisciplinary fields of Virtual Reality (VR) technology and computer animation, with a focus on large-scale crowd simulation and insect animation simulation. I was mentored by Professor Zhigang Deng (Chinese-American) at the University of Houston, USA (http://graphics.cs.uh.edu/zdeng/), and Professor Xiaogang Jin at the National Key Laboratory of CAD&CG, Zhejiang University (http://www.cad.zju.edu.cn/home/jin/).
+</p>
+</section>
 
-Research Achievements
+<section id="Achievements">
+  <p>
+Achievements.
 ======
+Research Achievements
+------
 In recent years, I have published over 10 academic journal and conference papers in prestigious international venues, including **ACM SIGGRAPH**, **ACM Transactions on Graphics (TOG)**, and **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. I have been granted **more than 10 invention patents**.  
 Additionally, I have led one project funded by the **National Natural Science Foundation**, one project funded by the **Jiangxi Provincial Natural Science Foundation**, and **three other provincial-level projects**.  
 I have also participated in multiple National Natural Science Foundation projects as well as provincial and ministerial-level projects.
-
-Academic and Professional Services
-------
-1. Reviewer for journals including TVCG, CAVW, and CG.  
-2. Reviewer for academic conferences such as SIGGRAPH Asia and Eurographics.  
-3. Program Committee Member for the CGI2024 academic conference.  
-4. Member of the Virtual Reality Special Committee of the China Society of Image and Graphics.  
-6. Expert in the Jiangxi Province Forensic Appraisal Expert Database.  
-7. Vice Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association. 
 
 Teaching Achievements
 ------
@@ -39,7 +38,24 @@ Guided students to repeatedly win top honors, including:
 2. National Second Prize in the Higher Education Press Cup National College Student Mathematical Modeling Competition.  
 3. Special Prize in the Jiangxi Province Graduate Student Mathematical Modeling Competition.  
 4. First Prize in the Jiangxi Province Computer Works Contest.
+</p>
+</section>
 
+<section id="Services">
+  <p>
+Academic and Professional Services
+------
+1. Reviewer for journals including TVCG, CAVW, and CG.  
+2. Reviewer for academic conferences such as SIGGRAPH Asia and Eurographics.  
+3. Program Committee Member for the CGI2024 academic conference.  
+4. Member of the Virtual Reality Special Committee of the China Society of Image and Graphics.  
+6. Expert in the Jiangxi Province Forensic Appraisal Expert Database.  
+7. Vice Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association. 
+</p>
+</section>
+
+<section id="Project">
+  <p>
 Research project
 ------
 1. National Natural Science Foundation Project, **"*Research on Data-Driven Flexible Deformation and Flight Simulation of Butterflies*"**, Project No. 62262024, Duration: January 2023 - December 2026, Ongoing, Principal Investigator.
@@ -47,6 +63,8 @@ Research project
 3. Jiangxi Provincial Department of Education Science and Technology Research Project, **"*Simulation Research on the Impact of Physical Environment on High-Density Crowds*"**, Project No. GJJ201511, Duration: January 2022 - December 2023, Completed, Principal Investigator.
 4. Jiangxi Provincial Department of Education Science and Technology Research Project, **"*Macroscopic Modeling and Evaluation Methods for Large-Scale Crowds Based on Fluid Dynamics*"**, Project No. GJJ207109, Duration: January 2021 - December 2022, Completed, Principal Investigator.
 5. Jiangxi Provincial Graduate Innovation Fund Project, **"*Research on Deformation Animation of Biological Groups*"**, Jiangxi Provincial Department of Education, 2018, Completed, Principal Investigator.
+</p>
+</section>
 
 Monograph/Textbook
 ------
