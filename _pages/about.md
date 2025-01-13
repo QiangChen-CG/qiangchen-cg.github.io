@@ -18,20 +18,20 @@ My research interests lie in the interdisciplinary fields of Virtual Reality (VR
   <p>
 Achievements.
 ======
-Research Achievements
+Research Achievements.
 ------
 In recent years, I have published over 10 academic journal and conference papers in prestigious international venues, including **ACM SIGGRAPH**, **ACM Transactions on Graphics (TOG)**, and **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. I have been granted **more than 10 invention patents**.  
 Additionally, I have led one project funded by the **National Natural Science Foundation**, one project funded by the **Jiangxi Provincial Natural Science Foundation**, and **three other provincial-level projects**.  
 I have also participated in multiple National Natural Science Foundation projects as well as provincial and ministerial-level projects.
 
-Teaching Achievements
+Teaching Achievements.
 ------
 1. Main courses taught: <<Computer Graphics>> and <<Introduction to Virtual Reality>>.  
 2. Published one teaching reform paper, authored one monograph, and one textbook.  
 3. Led one university-level teaching project.  
 4. Awarded First Prize in the university finals and Third Prize at the provincial level in the 6th Jiangxi Province University Young Teachers Teaching Competition, as well as the Special Prize in the university-level competition of the 4th National University Teachers Teaching Innovation Competition (Industry-Education Integration Track).
 
-Student Competition Mentorship
+Student Competition Mentorship.
 ------
 Guided students to repeatedly win top honors, including:  
 1. National First Prize in the China Virtual Reality Competition.  
@@ -43,7 +43,7 @@ Guided students to repeatedly win top honors, including:
 
 <section id="Services">
   <p>
-Academic and Professional Services
+Academic and Professional Services.
 ------
 1. Reviewer for journals including TVCG, CAVW, and CG.  
 2. Reviewer for academic conferences such as SIGGRAPH Asia and Eurographics.  
@@ -56,7 +56,7 @@ Academic and Professional Services
 
 <section id="Project">
   <p>
-Research project
+Research project.
 ------
 1. National Natural Science Foundation Project, **"*Research on Data-Driven Flexible Deformation and Flight Simulation of Butterflies*"**, Project No. 62262024, Duration: January 2023 - December 2026, Ongoing, Principal Investigator.
 2. Jiangxi Provincial Natural Science Foundation Project, **"*Research on Aerodynamics-Based Dynamic Simulation and Posture Generation of Flying Insects*"**, Project No. 20232BAB202023, Duration: July 2023 - July 2026, Ongoing, Principal Investigator.
