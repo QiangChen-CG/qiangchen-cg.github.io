@@ -42,22 +42,22 @@ redirect_from:
   <h1>Group Members.</h1>
   <p>PhD Students:</p>
   <ul>
-    <li><strong>Lu Tingsong (Ph.D.)</strong></li>
+    <li><strong>Tingsong Lu (Ph.D.)</strong></li>
   </ul>
   <p>Master Students:</p>
   <ul>
-    <li><strong>Li Feng (Master)</strong></li>
-    <li><strong>Guo Wenxu (Master)</strong></li>
-    <li><strong>Mao Mingfang (Master)</strong></li>
-    <li><strong>Zuo Binsong (Master)</strong></li>
-    <li><strong>Xiao Yang (Master)</strong></li>
-    <li><strong>Wu Lihui (Master)</strong></li>
-    <li><strong>Wang Quan (Master)</strong></li>
-    <li><strong>Zhou Shikun (Master)</strong></li>
-    <li><strong>Chen Jiajun (Master)</strong></li>
-    <li><strong>Qiu Jundong (Master)</strong></li>
-    <li><strong>Huang Zesen (Master)</strong></li>
-    <li><strong>Cui Yuhan (Master)</strong></li>
+    <li><strong>Feng Li (Master)</strong></li>
+    <li><strong>Wenxu Guo (Master)</strong></li>
+    <li><strong>Mingfang Mao (Master)</strong></li>
+    <li><strong>Binsong Zuo (Master)</strong></li>
+    <li><strong>Yang Xiao (Master)</strong></li>
+    <li><strong>Lihui Wu (Master)</strong></li>
+    <li><strong>Quan Wang (Master)</strong></li>
+    <li><strong>Shikun Zhou (Master)</strong></li>
+    <li><strong>Jiajun Chen (Master)</strong></li>
+    <li><strong>Jundong Qiu (Master)</strong></li>
+    <li><strong>Zesen Huang (Master)</strong></li>
+    <li><strong>Yuhan Cui (Master)</strong></li>
   </ul>
 </section>
 
