@@ -11,7 +11,7 @@ I obtained my Ph.D. in Control Science and Engineering from East China Jiaotong 
 My research interests lie in the interdisciplinary fields of Virtual Reality (VR) technology and computer animation, with a focus on large-scale crowd simulation and insect animation simulation. I was mentored by Professor Zhigang Deng (Chinese-American) at the University of Houston, USA (http://graphics.cs.uh.edu/zdeng/), and Professor Xiaogang Jin at the National Key Laboratory of CAD&CG, Zhejiang University (http://www.cad.zju.edu.cn/home/jin/).
 
 <section id="Achievements">
-  <h1>Research Achievements</h1>
+  <h1>Research Achievements.</h1>
   <hr> <!-- 使用 <hr> 添加水平分隔线 -->
   <p>
     In recent years, I have published over 10 academic journal and conference papers in prestigious international venues, including:
@@ -35,9 +35,7 @@ My research interests lie in the interdisciplinary fields of Virtual Reality (VR
   <p>I have also participated in multiple National Natural Science Foundation projects as well as other provincial and ministerial-level projects.</p>
 </section>
 
-Teaching Achievements.
-------
-<h1>Teaching Achievements</h1>
+<h1>Teaching Achievements.</h1>
 <ul>
   <li>Main courses taught: <strong>Computer Graphics</strong> and <strong>Introduction to Virtual Reality</strong>.</li>
   <li>Published one teaching reform paper, authored one monograph, and one textbook.</li>
@@ -55,9 +53,7 @@ Teaching Achievements.
   </li>
 </ul>
 
-Student Competition Mentorship.
-------
-<h1>Student Competition Mentorship</h1>
+<h1>Student Competition Mentorship.</h1>
 <p>Guided students to repeatedly win top honors, including:</p>
 <ul>
   <li>National First Prize in the China Virtual Reality Competition.</li>
@@ -66,9 +62,7 @@ Student Competition Mentorship.
   <li>First Prize in the Jiangxi Province Computer Works Contest.</li>
 </ul>
 
-Academic and Professional Services.
-------
-<h1>Academic and Professional Services</h1>
+<h1>Academic and Professional Services.</h1>
 <ul>
   <li>Reviewer for journals including TVCG, CAVW, and CG.</li>
   <li>Reviewer for academic conferences such as SIGGRAPH Asia and Eurographics.</li>
@@ -78,9 +72,7 @@ Academic and Professional Services.
   <li>Vice Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association.</li>
 </ul>
 
-Research project.
-------
-<h1>Research Projects</h1>
+<h1>Research Projects.</h1>
 <ul>
   <li>
     National Natural Science Foundation Project, 
@@ -109,9 +101,13 @@ Research project.
   </li>
 </ul>
 
-Monograph/Textbook
-------
-1. Monograph: **"*Agent Simulation Algorithms Based on Fluid Models*"**, China Railway Publishing House, Qiang Chen, May 2022.
+<h1>Monograph.</h1>
+<ul>
+  <li>
+    Monograph: <strong><em>"Agent Simulation Algorithms Based on Fluid Models"</em></strong>, 
+    China Railway Publishing House, Qiang Chen, May 2022.
+  </li>
+</ul>
 
 <!--Invention Patent
 ------
