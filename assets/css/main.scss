@@ -40,6 +40,10 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+html {
+  scroll-behavior: smooth;
+}
+
 .paper-item {
   display: flex; /* 启用 Flexbox 布局 */
   align-items: flex-start; /* 图片和文字顶部对齐 */
