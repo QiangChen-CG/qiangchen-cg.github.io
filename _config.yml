@@ -12,7 +12,7 @@ title                    : "Chen Qiang / Site Title"
 title_separator          : "-"
 name                     : &name "Chen Qiang"
 description              : &description "personal description"
-url                      : https://qiangchen-cg.github.io
+url                      : https://qiangchen-cg.github.io/ChenQiang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
