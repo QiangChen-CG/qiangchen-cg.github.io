@@ -38,6 +38,7 @@ redirect_from:
   <p>If you are interested in visiting or applying for a research position (e.g., intern, PhD, visiting PhD, or postdoc) in the lab,Please contact my email address and I will contact you after receiving the email.</p>
 </section>
 
+<section id="Group Members">
 <h1>Group Members.</h1>
   <p>PhD Students:</p>
   <ul>
@@ -58,7 +59,7 @@ redirect_from:
     <li><strong>Huang Zesen (Master)</strong></li>
     <li><strong>Cui Yuhan (Master)</strong></li>
   </ul>
-
+</section>
 
 <section id="Achievements">
   <h1>Research Achievements.</h1>
