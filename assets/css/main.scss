@@ -51,11 +51,10 @@ html {
 }
 
 .paper-image img {
-  width: 300px !important;
-  height: 200px !important; /* 例如强制高度为200px */
-  object-fit: cover;
-  display: block;
-  margin: 0 auto;
+  width: 100%; /* 图片占满容器宽度 */
+  height: auto; /* 图片占满容器高度 */
+  object-fit: cover; /* 确保图片裁剪而不拉伸 */
+  display: block; /* 取消默认 inline-block 布局带来的间距 */
 }
 
 .paper-content {
