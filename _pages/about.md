@@ -39,7 +39,7 @@ redirect_from:
 </section>
 
 <section id="Group Members">
-<h1>Group Members.</h1>
+  <h1>Group Members.</h1>
   <p>PhD Students:</p>
   <ul>
     <li><strong>Lu Tingsong (Ph.D.)</strong></li>
