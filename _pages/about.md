@@ -136,7 +136,7 @@ redirect_from:
 5. **Qiang Chen**, Guoliang Luo, Yang Tong, **"*Polarization Linear Wave Simulation Method, System, and Readable Storage Medium for High-Density Crowds*"**, November 2020, China, Patent No. 202010637889.X (Invention Patent, Authorized).
 6. Guoliang Luo, **Qiang Chen**, et al., **"*A Large-Scale 3D Face Synthesis System with Sample Similarity Suppression*"**, June 2020, China, Patent No. 202010612054.9 (Invention Patent, Authorized).
 -->
-<section id="Publications">
+
 Publications
 ------
 <div class="paper-list">
@@ -153,7 +153,6 @@ Publications
     </div>
   </div>
 </div>
-</section>
 ------
 <div class="paper-list">
   <div class="paper-item">
