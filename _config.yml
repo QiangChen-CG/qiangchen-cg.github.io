@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Chen Qiang / Home"
 title_separator          : "-"
 name                     : &name "Chen Qiang"
 description              : &description "personal description"
