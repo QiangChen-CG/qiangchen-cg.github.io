@@ -37,10 +37,23 @@ My research interests lie in the interdisciplinary fields of Virtual Reality (VR
 
 Teaching Achievements.
 ------
-1. Main courses taught: <<Computer Graphics>> and <<Introduction to Virtual Reality>>.  
-2. Published one teaching reform paper, authored one monograph, and one textbook.  
-3. Led one university-level teaching project.  
-4. Awarded First Prize in the university finals and Third Prize at the provincial level in the 6th Jiangxi Province University Young Teachers Teaching Competition, as well as the Special Prize in the university-level competition of the 4th National University Teachers Teaching Innovation Competition (Industry-Education Integration Track).
+<h1>Teaching Achievements</h1>
+<ul>
+  <li>Main courses taught: <strong>Computer Graphics</strong> and <strong>Introduction to Virtual Reality</strong>.</li>
+  <li>Published one teaching reform paper, authored one monograph, and one textbook.</li>
+  <li>Led one university-level teaching project.</li>
+  <li>
+    Awarded the following:
+    <ul>
+      <li><strong>First Prize</strong> in the university finals.</li>
+      <li><strong>Third Prize</strong> at the provincial level in the 6th Jiangxi Province University Young Teachers Teaching Competition.</li>
+      <li>
+        <strong>Special Prize</strong> in the university-level competition of the 4th National University Teachers Teaching Innovation Competition 
+        (<em>Industry-Education Integration Track</em>).
+      </li>
+    </ul>
+  </li>
+</ul>
 
 Student Competition Mentorship.
 ------
