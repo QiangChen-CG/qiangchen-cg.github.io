@@ -26,7 +26,7 @@ redirect_from:
     (<a href="http://www.cad.zju.edu.cn/home/jin/" target="_blank">National Key Laboratory of CAD&CG, Zhejiang University</a>).
   </p>
 
-  <h1>About Me.</h1>
+  <h1>Prospective Students.</h1>
   <p>There are multiple open research positions in my Lab.</p>
   <p>Topics of interest include:</p>
   <ul>
@@ -35,6 +35,7 @@ redirect_from:
     <li><strong>Neural Representations for Robotics</strong></li>
     <li><strong>Other topics in Graphics and Vision</strong></li>
   </ul>
+  <p>If you are interested in visiting or applying for a research position (e.g., intern, PhD, visiting PhD, or postdoc) in the lab,Please contact my email address and I will contact you after receiving the email.</p>
   </section>
 
 <section id="Achievements">
