@@ -181,6 +181,7 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
+    <div class="paper-image">
       <img src="/assets/images/aaa.png" 
            alt="Real-time Wing Deformation Simulations for Flying Insects"
            >
@@ -200,6 +201,7 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 左侧图片 -->
+    <div class="paper-image">
        <img src="/assets/images/aaa.png" 
            alt="A Bio-inspired Model for Bee Simulations"
            >
