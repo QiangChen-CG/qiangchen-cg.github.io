@@ -83,3 +83,8 @@ html {
 .paper-link:hover {
   text-decoration: underline;
 }
+
+.author__content {
+  width: 300px; /* 调整宽度为 300px 或任意你需要的值 */
+  max-width: 100%; /* 确保在小屏幕下不会超出容器 */
+}
