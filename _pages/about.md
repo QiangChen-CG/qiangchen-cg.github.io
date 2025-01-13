@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "About Me."
+<!--title: "About Me." -->
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<section id="About">
+  <h1>About Me.</h1>
 <p>
     I am a master's and Ph.D. advisor at the <strong>School of Computer Science and Artificial Intelligence, Jiangxi University of Finance and Economics</strong>. 
     Previously, I was a lecturer at the <strong>School of Software, Nanchang University</strong>, and conducted a visiting study at the 
@@ -23,6 +25,7 @@ redirect_from:
     Professor <strong>Xiaogang Jin</strong> 
     (<a href="http://www.cad.zju.edu.cn/home/jin/" target="_blank">National Key Laboratory of CAD&CG, Zhejiang University</a>).
   </p>
+  </section>
 
 <section id="Achievements">
   <h1>Research Achievements.</h1>
