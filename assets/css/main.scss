@@ -51,7 +51,7 @@ html {
 }
 
 .paper-image img {
-  width: 100%; /* 图片占满容器宽度 */
+  width: 20%; /* 图片占满容器宽度 */
   height: auto; /* 图片占满容器高度 */
   object-fit: cover; /* 确保图片裁剪而不拉伸 */
   display: block; /* 取消默认 inline-block 布局带来的间距 */
