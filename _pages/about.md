@@ -15,7 +15,6 @@ My research interests lie in the interdisciplinary fields of Virtual Reality (VR
 Achievements.
   </p>
 </section>
-======
 Research Achievements.
 ------
 In recent years, I have published over 10 academic journal and conference papers in prestigious international venues, including **ACM SIGGRAPH**, **ACM Transactions on Graphics (TOG)**, and **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. I have been granted **more than 10 invention patents**.  
