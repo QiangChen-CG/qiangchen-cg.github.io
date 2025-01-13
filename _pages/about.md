@@ -76,6 +76,7 @@ redirect_from:
   <li>First Prize in the Jiangxi Province Computer Works Contest.</li>
 </ul>
 
+<section id="Services">
 <h1>Academic and Professional Services.</h1>
 <ul>
   <li>Reviewer for journals including TVCG, CAVW, and CG.</li>
@@ -85,7 +86,9 @@ redirect_from:
   <li>Expert in the Jiangxi Province Forensic Appraisal Expert Database.</li>
   <li>Vice Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association.</li>
 </ul>
+</section>
 
+<section id="Projects">
 <h1>Research Projects.</h1>
 <ul>
   <li>
@@ -114,6 +117,7 @@ redirect_from:
     Jiangxi Provincial Department of Education, 2018, Completed, Principal Investigator.
   </li>
 </ul>
+</section>
 
 <h1>Monograph.</h1>
 <ul>
