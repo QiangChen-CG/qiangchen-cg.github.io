@@ -25,6 +25,16 @@ redirect_from:
     Professor <strong>Xiaogang Jin</strong> 
     (<a href="http://www.cad.zju.edu.cn/home/jin/" target="_blank">National Key Laboratory of CAD&CG, Zhejiang University</a>).
   </p>
+
+  <h1>About Me.</h1>
+  <p>There are multiple open research positions in my Lab.</p>
+  <p>Topics of interest include:</p>
+  <ul>
+    <li><strong>3D Generative Models</strong></li>
+    <li><strong>Physics-based Human Motion Generation</strong></li>
+    <li><strong>Neural Representations for Robotics</strong></li>
+    <li><strong>Other topics in Graphics and Vision</strong></li>
+  </ul>
   </section>
 
 <section id="Achievements">
