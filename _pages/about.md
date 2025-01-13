@@ -1,3 +1,18 @@
+<div class="about-me-section" style="background-image: url('/assets/images/background.jpg'); background-size: cover; background-position: center; padding: 50px 0; color: white; text-align: center;">
+  <div class="about-content">
+    <h1>Chen Qiang</h1>
+    <p>Master and Ph.D. advisor at Jiangxi University of Finance and Economics</p>
+    <p>Email: qiangchen@jxufe.edu.cn</p>
+    <p>NanChang, Jiangxi</p>
+  </div>
+</div>
+
+<div class="content-section">
+  <!-- 这里是原来的 "About Me" 内容 -->
+  <h2>About Me.</h2>
+  <p>I am a master's and Ph.D. advisor at the School of Computer Science and Artificial Intelligence...</p>
+  <!-- 其他内容 -->
+</div>
 ---
 permalink: /
 title: "About Me."
