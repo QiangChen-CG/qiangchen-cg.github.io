@@ -8,6 +8,9 @@ main:
   - title: "About"
     url: "#About"
     
+  - title: "Group Members"
+    url: "#Group Members"
+    
   - title: "Achievements"
     url: "#Achievements"
 
@@ -21,9 +24,6 @@ main:
     url: "#Monograph"
     
   - title: "Publications"
-    url: "#Publications"    
-    
-  - title: "CV"
-    url: "#CV"
+    url: "#Publications"
     
   
