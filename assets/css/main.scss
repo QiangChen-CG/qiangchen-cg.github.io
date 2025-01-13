@@ -51,10 +51,10 @@ html {
 }
 
 .paper-image img {
-  width: 20%; /* 图片占满容器宽度 */
-  height: auto; /* 图片占满容器高度 */
-  object-fit: cover; /* 确保图片裁剪而不拉伸 */
-  display: block; /* 取消默认 inline-block 布局带来的间距 */
+  width: 20% !important; /* 图片填充父容器宽度 */
+  height: 20% !important; /* 图片填充父容器高度 */
+  object-fit: cover !important; /* 保持图片比例并裁剪超出部分 */
+  display: block; /* 防止图片默认的 inline 布局带来的空隙 */
 }
 
 .paper-content {
