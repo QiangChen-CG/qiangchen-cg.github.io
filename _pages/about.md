@@ -140,19 +140,24 @@ redirect_from:
 6. Guoliang Luo, **Qiang Chen**, et al., **"*A Large-Scale 3D Face Synthesis System with Sample Similarity Suppression*"**, June 2020, China, Patent No. 202010612054.9 (Invention Patent, Authorized).
 -->
 
-Publications
-------
+<section id="Publications">
+<h1>Publications</h1>
 <div class="paper-list">
   <div class="paper-item">
-    <!-- 左侧图片 -->
+    <!-- 图片部分 -->
     <div class="paper-image">
-      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image" style="width: 500px; height: auto;">
+      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" 
+           alt="Real-time Wing Deformation Simulations for Flying Insects" 
+           style="width: 500px; height: auto;">
     </div>
-    <!-- 右侧内容 -->
+    <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">Real-time Wing Deformation Simulations for Flying Insects</h3>
-      <p class="paper-authors"><strong>Qiang Chen</strong>, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo.</p>
-      <a href="/assets/paper/Real-time Wing Deformation Simulations for Flying Insects.pdf" class="paper-link" target="_blank">[论文]</a>
+      <p class="paper-authors">
+        <strong>Qiang Chen</strong>, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo.
+      </p>
+      <a href="/assets/paper/Real-time Wing Deformation Simulations for Flying Insects.pdf" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[论文]</a>
     </div>
   </div>
 </div>
