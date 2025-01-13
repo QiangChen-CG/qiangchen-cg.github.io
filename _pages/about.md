@@ -63,7 +63,6 @@ Monograph/Textbook
 -->
 
 <section id="publications">
-  <h2>Publications</h2>
   <p>
 Publications
 ------
@@ -82,7 +81,7 @@ Publications
   </div>
 </div>
   </p>
-  </section>
+</section>
 ------
 <div class="paper-list">
   <div class="paper-item">
