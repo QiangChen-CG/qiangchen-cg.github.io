@@ -38,7 +38,7 @@ redirect_from:
   <p>If you are interested in visiting or applying for a research position (e.g., intern, PhD, visiting PhD, or postdoc) in the lab,Please contact my email address and I will contact you after receiving the email.</p>
 </section>
 
-<section id="Group Members">
+<section id="group-members">
   <h1>Group Members.</h1>
   <p>PhD Students:</p>
   <ul>
@@ -47,7 +47,7 @@ redirect_from:
   <p>Master Students:</p>
   <ul>
     <li><strong>Li Feng (Master)</strong></li>
-    <li><strong>PGuo Wenxu (Master)</strong></li>
+    <li><strong>Guo Wenxu (Master)</strong></li>
     <li><strong>Mao Mingfang (Master)</strong></li>
     <li><strong>Zuo Binsong (Master)</strong></li>
     <li><strong>Xiao Yang (Master)</strong></li>
