@@ -52,8 +52,8 @@ html {
 
 .paper-image img {
   width: 300px;
-  height: auto;
-  object-fit: contain;
+  height: 200px; /* 例如强制高度为200px */
+  object-fit: cover;
   display: block;
   margin: 0 auto;
 }
