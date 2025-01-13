@@ -184,7 +184,6 @@ redirect_from:
     <div class="paper-image">
       <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" 
            alt="Real-time Wing Deformation Simulations for Flying Insects"
-           class="paper-image"
            >
     </div>
     <!-- 文章内容部分 -->
@@ -203,7 +202,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image" class="paper-image">
+      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -218,7 +217,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image" class="paper-image">
+      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -233,7 +232,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image" class="paper-image">
+      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -248,7 +247,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image" class="paper-image">
+      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -263,7 +262,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image" class="paper-image">
+      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -278,7 +277,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image" class="paper-image">
+      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -293,7 +292,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image" class="paper-image">
+      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -308,7 +307,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image" class="paper-image">
+      <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
