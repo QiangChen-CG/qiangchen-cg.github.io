@@ -10,11 +10,13 @@ I am a master's and Ph.D. advisor at the School of Computer Science and Artifici
 I obtained my Ph.D. in Control Science and Engineering from East China Jiaotong University and earned both my Master's and Bachelor's degrees in Software Engineering from Nanchang University.  
 My research interests lie in the interdisciplinary fields of Virtual Reality (VR) technology and computer animation, with a focus on large-scale crowd simulation and insect animation simulation. I was mentored by Professor Zhigang Deng (Chinese-American) at the University of Houston, USA (http://graphics.cs.uh.edu/zdeng/), and Professor Xiaogang Jin at the National Key Laboratory of CAD&CG, Zhejiang University (http://www.cad.zju.edu.cn/home/jin/).
 
+<section id="Achievements">
 Research Achievements.
 ------
 In recent years, I have published over 10 academic journal and conference papers in prestigious international venues, including **ACM SIGGRAPH**, **ACM Transactions on Graphics (TOG)**, and **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. I have been granted **more than 10 invention patents**.  
 Additionally, I have led one project funded by the **National Natural Science Foundation**, one project funded by the **Jiangxi Provincial Natural Science Foundation**, and **three other provincial-level projects**.  
 I have also participated in multiple National Natural Science Foundation projects as well as provincial and ministerial-level projects.
+</section>
 
 Teaching Achievements.
 ------
