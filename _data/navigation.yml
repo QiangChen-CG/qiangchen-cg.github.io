@@ -7,21 +7,23 @@
 main:
   - title: "About"
     url: "#About"
-
-  - title: "Publications"
-    url: "#Publications"    
-
-  - title: "Services"
-    url: "#Services"    
     
   - title: "Achievements"
     url: "#Achievements"
-        
+
+  - title: "Services"
+    url: "#Services" 
+
   - title: "Project"
     url: "#Project"
+
+  - title: "Monograph"
+    url: "#Monograph"
+    
+  - title: "Publications"
+    url: "#Publications"    
     
   - title: "CV"
     url: "#CV"
     
-  - title: "Guide"
-    url: "#Guide"
+  
