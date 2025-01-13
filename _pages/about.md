@@ -57,28 +57,57 @@ Teaching Achievements.
 
 Student Competition Mentorship.
 ------
-Guided students to repeatedly win top honors, including:  
-1. National First Prize in the China Virtual Reality Competition.  
-2. National Second Prize in the Higher Education Press Cup National College Student Mathematical Modeling Competition.  
-3. Special Prize in the Jiangxi Province Graduate Student Mathematical Modeling Competition.  
-4. First Prize in the Jiangxi Province Computer Works Contest.
+<h1>Student Competition Mentorship</h1>
+<p>Guided students to repeatedly win top honors, including:</p>
+<ul>
+  <li>National First Prize in the China Virtual Reality Competition.</li>
+  <li>National Second Prize in the Higher Education Press Cup National College Student Mathematical Modeling Competition.</li>
+  <li>Special Prize in the Jiangxi Province Graduate Student Mathematical Modeling Competition.</li>
+  <li>First Prize in the Jiangxi Province Computer Works Contest.</li>
+</ul>
 
 Academic and Professional Services.
 ------
-1. Reviewer for journals including TVCG, CAVW, and CG.  
-2. Reviewer for academic conferences such as SIGGRAPH Asia and Eurographics.  
-3. Program Committee Member for the CGI2024 academic conference.  
-4. Member of the Virtual Reality Special Committee of the China Society of Image and Graphics.  
-6. Expert in the Jiangxi Province Forensic Appraisal Expert Database.  
-7. Vice Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association. 
+<h1>Academic and Professional Services</h1>
+<ul>
+  <li>Reviewer for journals including TVCG, CAVW, and CG.</li>
+  <li>Reviewer for academic conferences such as SIGGRAPH Asia and Eurographics.</li>
+  <li>Program Committee Member for the CGI2024 academic conference.</li>
+  <li>Member of the Virtual Reality Special Committee of the China Society of Image and Graphics.</li>
+  <li>Expert in the Jiangxi Province Forensic Appraisal Expert Database.</li>
+  <li>Vice Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association.</li>
+</ul>
 
 Research project.
 ------
-1. National Natural Science Foundation Project, **"*Research on Data-Driven Flexible Deformation and Flight Simulation of Butterflies*"**, Project No. 62262024, Duration: January 2023 - December 2026, Ongoing, Principal Investigator.
-2. Jiangxi Provincial Natural Science Foundation Project, **"*Research on Aerodynamics-Based Dynamic Simulation and Posture Generation of Flying Insects*"**, Project No. 20232BAB202023, Duration: July 2023 - July 2026, Ongoing, Principal Investigator.
-3. Jiangxi Provincial Department of Education Science and Technology Research Project, **"*Simulation Research on the Impact of Physical Environment on High-Density Crowds*"**, Project No. GJJ201511, Duration: January 2022 - December 2023, Completed, Principal Investigator.
-4. Jiangxi Provincial Department of Education Science and Technology Research Project, **"*Macroscopic Modeling and Evaluation Methods for Large-Scale Crowds Based on Fluid Dynamics*"**, Project No. GJJ207109, Duration: January 2021 - December 2022, Completed, Principal Investigator.
-5. Jiangxi Provincial Graduate Innovation Fund Project, **"*Research on Deformation Animation of Biological Groups*"**, Jiangxi Provincial Department of Education, 2018, Completed, Principal Investigator.
+<h1>Research Projects</h1>
+<ul>
+  <li>
+    National Natural Science Foundation Project, 
+    <strong><em>"Research on Data-Driven Flexible Deformation and Flight Simulation of Butterflies"</em></strong>, 
+    Project No. 62262024, Duration: January 2023 - December 2026, Ongoing, Principal Investigator.
+  </li>
+  <li>
+    Jiangxi Provincial Natural Science Foundation Project, 
+    <strong><em>"Research on Aerodynamics-Based Dynamic Simulation and Posture Generation of Flying Insects"</em></strong>, 
+    Project No. 20232BAB202023, Duration: July 2023 - July 2026, Ongoing, Principal Investigator.
+  </li>
+  <li>
+    Jiangxi Provincial Department of Education Science and Technology Research Project, 
+    <strong><em>"Simulation Research on the Impact of Physical Environment on High-Density Crowds"</em></strong>, 
+    Project No. GJJ201511, Duration: January 2022 - December 2023, Completed, Principal Investigator.
+  </li>
+  <li>
+    Jiangxi Provincial Department of Education Science and Technology Research Project, 
+    <strong><em>"Macroscopic Modeling and Evaluation Methods for Large-Scale Crowds Based on Fluid Dynamics"</em></strong>, 
+    Project No. GJJ207109, Duration: January 2021 - December 2022, Completed, Principal Investigator.
+  </li>
+  <li>
+    Jiangxi Provincial Graduate Innovation Fund Project, 
+    <strong><em>"Research on Deformation Animation of Biological Groups"</em></strong>, 
+    Jiangxi Provincial Department of Education, 2018, Completed, Principal Investigator.
+  </li>
+</ul>
 
 Monograph/Textbook
 ------
