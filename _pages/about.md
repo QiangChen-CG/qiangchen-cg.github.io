@@ -148,7 +148,7 @@ redirect_from:
     <div class="paper-image">
       <img src="/assets/images/Real-time Wing Deformation Simulations for Flying Insects.png" 
            alt="Real-time Wing Deformation Simulations for Flying Insects" 
-           style="width: 500px; height: auto;">
+           >
     </div>
     <!-- 文章内容部分 -->
     <div class="paper-content">
@@ -166,7 +166,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/A Bio-inspired Model for Bee Simulations.png" alt="Dice Image" style="width: 500px; height: auto;">
+      <img src="/assets/images/A Bio-inspired Model for Bee Simulations.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -181,7 +181,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/Crowd evacuation simulation in flowing fluids.png" alt="Dice Image" style="width: 500px; height: auto;">
+      <img src="/assets/images/Crowd evacuation simulation in flowing fluids.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -196,7 +196,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/A Practical Method for Butterfly Motion Capture.png" alt="Dice Image" style="width: 500px; height: auto;">
+      <img src="/assets/images/A Practical Method for Butterfly Motion Capture.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -211,7 +211,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/A Practical Model for Realistic Butterfly Flight Simulation.png" alt="Dice Image" style="width: 500px; height: auto;">
+      <img src="/assets/images/A Practical Model for Realistic Butterfly Flight Simulation.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -226,7 +226,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/A linear wave propagation‐based simulation model for dense and polarized crowds.png" alt="Dice Image" style="width: 500px; height: auto;">
+      <img src="/assets/images/A linear wave propagation‐based simulation model for dense and polarized crowds.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -241,7 +241,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/Shape-constrained flying insects animation.png" alt="Dice Image" style="width: 500px; height: auto;">
+      <img src="/assets/images/Shape-constrained flying insects animation.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -256,7 +256,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/Geometry Sampling for 3D Face Generation via DCGAN.png" alt="Dice Image" style="width: 500px; height: auto;">
+      <img src="/assets/images/Geometry Sampling for 3D Face Generation via DCGAN.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -271,7 +271,7 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/The Action Consistency of Casting in Virtual Environment.png" alt="Dice Image" style="width: 500px; height: auto;">
+      <img src="/assets/images/The Action Consistency of Casting in Virtual Environment.png" alt="Dice Image">
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
