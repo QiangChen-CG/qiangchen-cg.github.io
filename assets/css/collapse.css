@@ -13,7 +13,7 @@
 }
 .container .content {
     display: block; /* 如果需要内容默认显示 */
-    width: 80%; /* 将宽度改为更宽，比如占父容器的 80% */
+    width: 100%; /* 将宽度改为更宽，比如占父容器的 80% */
     margin: 0 auto; /* 确保内容居中 */
     padding: 5px;
 }
