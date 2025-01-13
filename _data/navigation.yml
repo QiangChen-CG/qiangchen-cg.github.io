@@ -9,7 +9,7 @@ main:
     url: "#About"
     
   - title: "Group Members"
-    url: "#Group Members"
+    url: "#GroupMembers"
     
   - title: "Achievements"
     url: "#Achievements"
