@@ -36,7 +36,29 @@ redirect_from:
     <li><strong>Other topics in Graphics and Vision</strong></li>
   </ul>
   <p>If you are interested in visiting or applying for a research position (e.g., intern, PhD, visiting PhD, or postdoc) in the lab,Please contact my email address and I will contact you after receiving the email.</p>
-  </section>
+</section>
+
+<h1>Group Members.</h1>
+  <p>PhD Students:</p>
+  <ul>
+    <li><strong>Lu Tingsong</strong></li>
+  </ul>
+  <p>Master Students:</p>
+  <ul>
+    <li><strong>Li Feng</strong></li>
+    <li><strong>PGuo Wenxu</strong></li>
+    <li><strong>Mao Mingfang</strong></li>
+    <li><strong>Zuo Binsong</strong></li>
+    <li><strong>Xiao Yang</strong></li>
+    <li><strong>Wu Lihui</strong></li>
+    <li><strong>Wang Quan</strong></li>
+    <li><strong>Zhou Shikun</strong></li>
+    <li><strong>Chen Jiajun</strong></li>
+    <li><strong>Qiu Jundong</strong></li>
+    <li><strong>Huang Zesen</strong></li>
+    <li><strong>Cui Yuhan</strong></li>
+  </ul>
+
 
 <section id="Achievements">
   <h1>Research Achievements.</h1>
