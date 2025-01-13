@@ -202,8 +202,11 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/aaa.png" alt="Dice Image">
-    </div>
+      <div class="paper-image">
+       <img src="/assets/images/aaa.png" 
+           alt="A Bio-inspired Model for Bee Simulations"
+           >
+     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
       <h3 class="paper-title">A Bio-inspired Model for Bee Simulations</h3>
@@ -217,7 +220,9 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/aaa.png" alt="Dice Image">
+      <img src="/assets/images/aaa.png" 
+           alt="Crowd evacuation simulation in flowing fluids"
+           >
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -232,7 +237,9 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/aaa.png" alt="Dice Image">
+      <img src="/assets/images/aaa.png" 
+           alt="A Practical Method for Butterfly Motion Capture"
+           >
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -247,7 +254,9 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/aaa.png" alt="Dice Image">
+      <img src="/assets/images/aaa.png" 
+           alt="A Practical Model for Realistic Butterfly Flight Simulation"
+           >
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -262,7 +271,9 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/aaa.png" alt="Dice Image">
+      <img src="/assets/images/aaa.png" 
+           alt="A linear wave propagation‐based simulation model for dense and polarized crowds"
+           >
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -277,7 +288,9 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/aaa.png" alt="Dice Image">
+      <img src="/assets/images/aaa.png" 
+           alt="Shape-constrained flying insects animation"
+           >
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -292,7 +305,9 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/aaa.png" alt="Dice Image">
+      <img src="/assets/images/aaa.png" 
+           alt="Geometry Sampling for 3D Face Generation via DCGAN"
+           >
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
@@ -307,7 +322,9 @@ redirect_from:
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
-      <img src="/assets/images/aaa.png" alt="Dice Image">
+      <img src="/assets/images/aaa.png" 
+           alt="The Action Consistency of Casting in Virtual Environment"
+           >
     </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
