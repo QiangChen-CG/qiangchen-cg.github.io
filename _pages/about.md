@@ -206,7 +206,7 @@ redirect_from:
        <img src="/assets/images/aaa.png" 
            alt="A Bio-inspired Model for Bee Simulations"
            >
-     </div>
+      </div>
     <!-- 右侧内容 -->
     <div class="paper-content">
       <h3 class="paper-title">A Bio-inspired Model for Bee Simulations</h3>
@@ -214,6 +214,7 @@ redirect_from:
       <a href="/assets/paper/A Bio-inspired Model for Bee Simulations.pdf" class="paper-link" target="_blank">[论文]</a>
     </div>
   </div>
+</div>
 </div>
 
 <div class="paper-list">
