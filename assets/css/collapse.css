@@ -12,8 +12,9 @@
     font-weight: bold;
 }
 .container .content {
-    display: block; /* 如果需要内容默认显示 */
-    width: 200%; /* 将宽度改为更宽，比如占父容器的 80% */
-    margin: 0 auto; /* 确保内容居中 */
-    padding: 5px;
+    display: block !important; /* 强制覆盖其他样式 */
+    width: 120% !important;
+    margin: 0 auto !important;
+    padding: 5px !important;
+    background-color: #f9f9f9 !important;
 }
