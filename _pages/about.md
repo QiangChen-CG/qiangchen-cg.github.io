@@ -6,9 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a master's and Ph.D. advisor at the School of Computer Science and Artificial Intelligence, Jiangxi University of Finance and Economics. Previously, I was a lecturer at the School of Software, Nanchang University, and conducted a visiting study at the National Key Laboratory of CAD&CG, Zhejiang University, in 2018.  
-I obtained my Ph.D. in Control Science and Engineering from East China Jiaotong University and earned both my Master's and Bachelor's degrees in Software Engineering from Nanchang University.  
-My research interests lie in the interdisciplinary fields of Virtual Reality (VR) technology and computer animation, with a focus on large-scale crowd simulation and insect animation simulation. I was mentored by Professor Zhigang Deng (Chinese-American) at the University of Houston, USA (http://graphics.cs.uh.edu/zdeng/), and Professor Xiaogang Jin at the National Key Laboratory of CAD&CG, Zhejiang University (http://www.cad.zju.edu.cn/home/jin/).
+<p>
+    I am a master's and Ph.D. advisor at the <strong>School of Computer Science and Artificial Intelligence, Jiangxi University of Finance and Economics</strong>. 
+    Previously, I was a lecturer at the <strong>School of Software, Nanchang University</strong>, and conducted a visiting study at the 
+    <strong>National Key Laboratory of CAD&CG, Zhejiang University</strong>, in 2018.
+  </p>
+  <p>
+    I obtained my Ph.D. in <strong>Control Science and Engineering</strong> from <strong>East China Jiaotong University</strong> and earned both my 
+    Master's and Bachelor's degrees in <strong>Software Engineering</strong> from <strong>Nanchang University</strong>.
+  </p>
+  <p>
+    My research interests lie in the interdisciplinary fields of <strong>Virtual Reality (VR) technology</strong> and <strong>computer animation</strong>, 
+    with a focus on large-scale crowd simulation and insect animation simulation. 
+    I was mentored by Professor <strong>Zhigang Deng</strong> 
+    (<a href="http://graphics.cs.uh.edu/zdeng/" target="_blank">Chinese-American, University of Houston, USA</a>) and 
+    Professor <strong>Xiaogang Jin</strong> 
+    (<a href="http://www.cad.zju.edu.cn/home/jin/" target="_blank">National Key Laboratory of CAD&CG, Zhejiang University</a>).
+  </p>
 
 <section id="Achievements">
   <h1>Research Achievements.</h1>
