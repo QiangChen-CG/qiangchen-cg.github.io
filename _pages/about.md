@@ -200,21 +200,23 @@ redirect_from:
 
 <div class="paper-list">
   <div class="paper-item">
-    <!-- 左侧图片 -->
+    <!-- 图片部分 -->
     <div class="paper-image">
-       <img src="/assets/images/aaa.png" 
+      <img src="/assets/images/aaa.png" 
            alt="A Bio-inspired Model for Bee Simulations"
            >
-      </div>
-    <!-- 右侧内容 -->
+    </div>
+    <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">A Bio-inspired Model for Bee Simulations</h3>
-      <p class="paper-authors"><strong>Qiang Chen</strong>, Wenxu Guo, Yuming Fang, Yang Tong, Tingsong Lu, Xiaogang Jin, and Zhigang Deng.</p>
-      <a href="/assets/paper/A Bio-inspired Model for Bee Simulations.pdf" class="paper-link" target="_blank">[论文]</a>
+      <p class="paper-authors">
+        <strong>Qiang Chen</strong>, Wenxu Guo, Yuming Fang, Yang Tong, Tingsong Lu, Xiaogang Jin, and Zhigang Deng.
+      </p>
+      <a href="/assets/paper/A Bio-inspired Model for Bee Simulations.pdf" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[论文]</a>
     </div>
   </div>
 </div>
-
 
 <div class="paper-list">
   <div class="paper-item">
