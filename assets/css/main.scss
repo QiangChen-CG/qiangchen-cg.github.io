@@ -51,8 +51,6 @@ html {
 }
 
 .paper-image img {
-  width: 300px !important; /* 图片填充父容器宽度 */
-  height: auto !important; /* 图片填充父容器高度 */
   object-fit: cover !important; /* 保持图片比例并裁剪超出部分 */
   display: block; /* 防止图片默认的 inline 布局带来的空隙 */
 }
