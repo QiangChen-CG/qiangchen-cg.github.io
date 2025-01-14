@@ -183,7 +183,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="Real-time Wing Deformation Simulations for Flying Insects"
-           style="width: 150px; height: auto;"
+           style="width: 200px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
@@ -204,7 +204,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="A Bio-inspired Model for Bee Simulations"
-           style="width: 150px; height: auto;"
+           style="width: 200px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
@@ -225,7 +225,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="Crowd evacuation simulation in flowing fluids"
-           style="width: 150px; height: auto;"
+           style="width: 200px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
@@ -245,7 +245,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="Crowd evacuation simulation in flowing fluids"
-           style="width: 150px; height: auto;"
+           style="width: 200px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
@@ -265,7 +265,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="A Practical Model for Realistic Butterfly Flight Simulation"
-           style="width: 150px; height: auto;"
+           style="width: 200px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
@@ -285,7 +285,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="A linear wave propagation‐based simulation model for dense and polarized crowds"
-           style="width: 150px; height: auto;"
+           style="width: 200px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
@@ -304,7 +304,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="Shape-constrained flying insects animation"
-           style="width: 150px; height: auto;"
+           style="width: 200px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
@@ -324,7 +324,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="Geometry Sampling for 3D Face Generation via DCGAN"
-           style="width: 150px; height: auto;"
+           style="width: 200px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
@@ -343,7 +343,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="The Action Consistency of Casting in Virtual Environment"
-           style="width: 150px; height: auto;"
+           style="width: 200px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
