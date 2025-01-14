@@ -197,6 +197,8 @@ redirect_from:
   </div>
 </div>
 
+
+
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
@@ -216,122 +218,141 @@ redirect_from:
   </div>
 </div>
 
-<!-- <div class="paper-list">
+
+
+<div class="paper-list">
   <div class="paper-item">
-    <!-- 左侧图片 -->
-    <div class="paper-image">
+    <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="Crowd evacuation simulation in flowing fluids"
+           style="width: 150px; height: auto;"
            >
-    </div>
-    <!-- 右侧内容 -->
+    <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">Crowd evacuation simulation in flowing fluids</h3>
-      <p class="paper-authors">Xunjin Zou, Yunqing Ye, Zhenming Zhu, <strong>Qiang Chen*</strong>.</p>
-      <a href="/assets/paper/Crowd evacuation simulation in flowing fluids.pdf" class="paper-link" target="_blank">[论文]</a>
+      <p class="paper-authors">
+        Xunjin Zou, Yunqing Ye, Zhenming Zhu, <strong>Qiang Chen*</strong>.
+      </p>
+      <a href="/assets/paper/Crowd evacuation simulation in flowing fluids.pdf" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[论文]</a>
     </div>
-<!--  </div>
+  </div>
 </div>
+
 
 <div class="paper-list">
   <div class="paper-item">
-    <!-- 左侧图片 -->
-    <div class="paper-image">
+    <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
-           alt="A Practical Method for Butterfly Motion Capture"
+           alt="Crowd evacuation simulation in flowing fluids"
+           style="width: 150px; height: auto;"
            >
-    </div>
-    <!-- 右侧内容 -->
+    <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">A Practical Method for Butterfly Motion Capture</h3>
-      <p class="paper-authors"><strong>Qiang Chen</strong>, Lu T, Tong Y, et al.</p>
-      <a href="/assets/paper/A Practical Method for Butterfly Motion Capture.pdf" class="paper-link" target="_blank">[论文]</a>
+      <p class="paper-authors">
+        <strong>Qiang Chen</strong>, Lu T, Tong Y, et al.
+      </p>
+      <a href="/assets/paper/A Practical Method for Butterfly Motion Capture.pdf" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[论文]</a>
     </div>
-<!--  </div>
+  </div>
 </div>
+
 
 <div class="paper-list">
   <div class="paper-item">
-    <!-- 左侧图片 -->
-    <div class="paper-image">
+    <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="A Practical Model for Realistic Butterfly Flight Simulation"
+           style="width: 150px; height: auto;"
            >
-    </div>
-    <!-- 右侧内容 -->
+    <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">A Practical Model for Realistic Butterfly Flight Simulation</h3>
-      <p class="paper-authors"><strong>Qiang Chen</strong>, Tingsong Lu, Yang Tong, Guoliang Luo, Xiaogang Jin, Zhigang Deng.</p>
-      <a href="/assets/paper/A Practical Model for Realistic Butterfly Flight Simulation.pdf" class="paper-link" target="_blank">[论文]</a>
+      <p class="paper-authors">
+        <strong>Qiang Chen</strong>, Tingsong Lu, Yang Tong, Guoliang Luo, Xiaogang Jin, Zhigang Deng.
+      </p>
+      <a href="/assets/paper/A Practical Model for Realistic Butterfly Flight Simulation.pdf" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[论文]</a>
     </div>
-<!--  </div>
+  </div>
 </div>
+
 
 <div class="paper-list">
   <div class="paper-item">
-    <!-- 左侧图片 -->
-    <div class="paper-image">
+    <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="A linear wave propagation‐based simulation model for dense and polarized crowds"
+           style="width: 150px; height: auto;"
            >
-    </div>
-    <!-- 右侧内容 -->
+    <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">A linear wave propagation‐based simulation model for dense and polarized crowds</h3>
-      <p class="paper-authors"><strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng.</p>
-      <a href="/assets/paper/A linear wave propagation‐based simulation model for dense and polarized crowds.pdf" class="paper-link" target="_blank">[论文]</a>
+      <p class="paper-authors">
+        <strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng.
+      </p>
+      <a href="/assets/paper/A linear wave propagation‐based simulation model for dense and polarized crowds.pdf" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[论文]</a>
     </div>
-<!--  </div>
+  </div>
 </div>
 
 <div class="paper-list">
   <div class="paper-item">
-    <!-- 左侧图片 -->
-    <div class="paper-image">
+    <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="Shape-constrained flying insects animation"
+           style="width: 150px; height: auto;"
            >
-    </div>
-    <!-- 右侧内容 -->
+    <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">Shape-constrained flying insects animation</h3>
-      <p class="paper-authors"><strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng.</p>
-      <a href="/assets/paper/Shape-constrained flying insects animation.pdf" class="paper-link" target="_blank">[论文]</a>
+      <p class="paper-authors">
+        <strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng.
+      </p>
+      <a href="/assets/paper/Shape-constrained flying insects animation.pdf" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[论文]</a>
     </div>
-<!--  </div>
+  </div>
 </div>
+
 
 <div class="paper-list">
   <div class="paper-item">
-    <!-- 左侧图片 -->
-    <div class="paper-image">
+    <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="Geometry Sampling for 3D Face Generation via DCGAN"
+           style="width: 150px; height: auto;"
            >
-    </div>
-    <!-- 右侧内容 -->
+    <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">Geometry Sampling for 3D Face Generation via DCGAN</h3>
-      <p class="paper-authors">Guoliang Luo, Xin Zhao, Yang Tong, <strong>Qiang Chen</strong>, Zhiliang Zhu, Haopeng Lei and Juncong Lin.</p>
-      <a href="/assets/paper/Geometry Sampling for 3D Face Generation via DCGAN.pdf" class="paper-link" target="_blank">[论文]</a>
+      <p class="paper-authors">
+        Guoliang Luo, Xin Zhao, Yang Tong, <strong>Qiang Chen</strong>, Zhiliang Zhu, Haopeng Lei and Juncong Lin.
+      </p>
+      <a href="/assets/paper/Geometry Sampling for 3D Face Generation via DCGAN.pdf" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[论文]</a>
     </div>
-<!--  </div>
+  </div>
 </div>
 
 <div class="paper-list">
   <div class="paper-item">
-    <!-- 左侧图片 -->
-    <div class="paper-image">
+    <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="The Action Consistency of Casting in Virtual Environment"
+           style="width: 150px; height: auto;"
            >
-    </div>
-    <!-- 右侧内容 -->
+    <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">The Action Consistency of Casting in Virtual Environment</h3>
-      <p class="paper-authors">Guoliang Luo, Zeiwei Guan, Guoming Xiong, <strong>Qiang Chen</strong> etc.</p>
-      <a href="/assets/paper/The Action Consistency of Casting in Virtual Environment.pdf" class="paper-link" target="_blank">[论文]</a>
+      <p class="paper-authors">
+        Guoliang Luo, Zeiwei Guan, Guoming Xiong, <strong>Qiang Chen</strong> etc.
+      </p>
+      <a href="/assets/paper/The Action Consistency of Casting in Virtual Environment.pdf" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[论文]</a>
     </div>
-<!--  </div>
-</div>  
-
+  </div>
+</div>
