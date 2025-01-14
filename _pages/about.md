@@ -183,7 +183,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="Real-time Wing Deformation Simulations for Flying Insects"
-           style="width: 100px; height: auto;"
+           style="width: 150px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
@@ -202,7 +202,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
            alt="A Bio-inspired Model for Bee Simulations"
-           style="width: 100px; height: auto;"
+           style="width: 150px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
