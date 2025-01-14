@@ -181,11 +181,9 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-    <div class="paper-image">
       <img src="/assets/images/aaa.png" 
            alt="Real-time Wing Deformation Simulations for Flying Insects"
            >
-    </div>
     <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">Real-time Wing Deformation Simulations for Flying Insects</h3>
@@ -201,11 +199,9 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-    <div class="paper-image">
       <img src="/assets/images/aaa.png" 
            alt="A Bio-inspired Model for Bee Simulations"
            >
-    </div>
     <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">A Bio-inspired Model for Bee Simulations</h3>
@@ -218,7 +214,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="paper-list">
+<!-- <div class="paper-list">
   <div class="paper-item">
     <!-- 左侧图片 -->
     <div class="paper-image">
@@ -232,7 +228,7 @@ redirect_from:
       <p class="paper-authors">Xunjin Zou, Yunqing Ye, Zhenming Zhu, <strong>Qiang Chen*</strong>.</p>
       <a href="/assets/paper/Crowd evacuation simulation in flowing fluids.pdf" class="paper-link" target="_blank">[论文]</a>
     </div>
-  </div>
+<!--  </div>
 </div>
 
 <div class="paper-list">
@@ -249,7 +245,7 @@ redirect_from:
       <p class="paper-authors"><strong>Qiang Chen</strong>, Lu T, Tong Y, et al.</p>
       <a href="/assets/paper/A Practical Method for Butterfly Motion Capture.pdf" class="paper-link" target="_blank">[论文]</a>
     </div>
-  </div>
+<!--  </div>
 </div>
 
 <div class="paper-list">
@@ -266,7 +262,7 @@ redirect_from:
       <p class="paper-authors"><strong>Qiang Chen</strong>, Tingsong Lu, Yang Tong, Guoliang Luo, Xiaogang Jin, Zhigang Deng.</p>
       <a href="/assets/paper/A Practical Model for Realistic Butterfly Flight Simulation.pdf" class="paper-link" target="_blank">[论文]</a>
     </div>
-  </div>
+<!--  </div>
 </div>
 
 <div class="paper-list">
@@ -283,7 +279,7 @@ redirect_from:
       <p class="paper-authors"><strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng.</p>
       <a href="/assets/paper/A linear wave propagation‐based simulation model for dense and polarized crowds.pdf" class="paper-link" target="_blank">[论文]</a>
     </div>
-  </div>
+<!--  </div>
 </div>
 
 <div class="paper-list">
@@ -300,7 +296,7 @@ redirect_from:
       <p class="paper-authors"><strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng.</p>
       <a href="/assets/paper/Shape-constrained flying insects animation.pdf" class="paper-link" target="_blank">[论文]</a>
     </div>
-  </div>
+<!--  </div>
 </div>
 
 <div class="paper-list">
@@ -317,7 +313,7 @@ redirect_from:
       <p class="paper-authors">Guoliang Luo, Xin Zhao, Yang Tong, <strong>Qiang Chen</strong>, Zhiliang Zhu, Haopeng Lei and Juncong Lin.</p>
       <a href="/assets/paper/Geometry Sampling for 3D Face Generation via DCGAN.pdf" class="paper-link" target="_blank">[论文]</a>
     </div>
-  </div>
+<!--  </div>
 </div>
 
 <div class="paper-list">
@@ -334,6 +330,6 @@ redirect_from:
       <p class="paper-authors">Guoliang Luo, Zeiwei Guan, Guoming Xiong, <strong>Qiang Chen</strong> etc.</p>
       <a href="/assets/paper/The Action Consistency of Casting in Virtual Environment.pdf" class="paper-link" target="_blank">[论文]</a>
     </div>
-  </div>
-</div>
+<!--  </div>
+</div>  
 
