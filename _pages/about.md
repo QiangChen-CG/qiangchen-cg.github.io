@@ -197,7 +197,7 @@ redirect_from:
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
       <a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
-       <a href="/assets/Dataset/1" 
+      <a href="/assets/Dataset/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
     </div>
   </div>
@@ -220,6 +220,12 @@ redirect_from:
       </p>
       <a href="/assets/paper/A Bio-inspired Model for Bee Simulations.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Paper]</a>
+      <a href="/assets/Video/Video.mp4" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+      <a href="/assets/Dataset/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
     </div>
   </div>
 </div>
@@ -241,6 +247,12 @@ redirect_from:
       </p>
       <a href="/assets/paper/Crowd evacuation simulation in flowing fluids.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Paper]</a>
+      <a href="/assets/Video/Video.mp4" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+      <a href="/assets/Dataset/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
     </div>
   </div>
 </div>
@@ -261,6 +273,12 @@ redirect_from:
       </p>
       <a href="/assets/paper/A Practical Method for Butterfly Motion Capture.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Paper]</a>
+      <a href="/assets/Video/Video.mp4" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+      <a href="/assets/Dataset/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
     </div>
   </div>
 </div>
@@ -281,6 +299,12 @@ redirect_from:
       </p>
       <a href="/assets/paper/A Practical Model for Realistic Butterfly Flight Simulation.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Paper]</a>
+      <a href="/assets/Video/Video.mp4" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+      <a href="/assets/Dataset/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
     </div>
   </div>
 </div>
@@ -301,6 +325,12 @@ redirect_from:
       </p>
       <a href="/assets/paper/A linear wave propagation‐based simulation model for dense and polarized crowds.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Paper]</a>
+      <a href="/assets/Video/Video.mp4" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+      <a href="/assets/Dataset/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
     </div>
   </div>
 </div>
@@ -320,6 +350,12 @@ redirect_from:
       </p>
       <a href="/assets/paper/Shape-constrained flying insects animation.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Paper]</a>
+      <a href="/assets/Video/Video.mp4" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+      <a href="/assets/Dataset/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
     </div>
   </div>
 </div>
@@ -340,6 +376,12 @@ redirect_from:
       </p>
       <a href="/assets/paper/Geometry Sampling for 3D Face Generation via DCGAN.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Paper]</a>
+      <a href="/assets/Video/Video.mp4" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+      <a href="/assets/Dataset/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
     </div>
   </div>
 </div>
@@ -359,6 +401,12 @@ redirect_from:
       </p>
       <a href="/assets/paper/The Action Consistency of Casting in Virtual Environment.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Paper]</a>
+      <a href="/assets/Video/Video.mp4" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+      <a href="/assets/Dataset/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
     </div>
   </div>
 </div>
