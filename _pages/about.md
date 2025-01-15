@@ -193,11 +193,11 @@ redirect_from:
       </p>
       <a href="/assets/paper/Real-time Wing Deformation Simulations for Flying Insects.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Paper]</a>
-      <a href="" 
+      <a href="/assets/Video/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
-      <a href="" 
+      <a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
-       <a href="" 
+       <a href="/assets/Dataset/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
     </div>
   </div>
