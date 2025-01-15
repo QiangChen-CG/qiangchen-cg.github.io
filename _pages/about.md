@@ -197,8 +197,8 @@ redirect_from:
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
       <a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
-      <a href="/assets/Dataset/1" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
+      <a href="#" 
+         class="paper-link" onclick="return false;">[Dataset]</a>
     </div>
   </div>
 </div>
