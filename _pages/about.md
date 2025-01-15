@@ -193,8 +193,12 @@ redirect_from:
       </p>
       <a href="/assets/paper/Real-time Wing Deformation Simulations for Flying Insects.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Paper]</a>
-      <a href="/assets/Demo/Demo.mp4" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[Demo]</a>
+      <a href="/assets/Demo/Video.mp4" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <a href="/assets/Demo/Video.mp4" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+       <a href="/assets/Demo/Video.mp4" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
     </div>
   </div>
 </div>
