@@ -374,7 +374,6 @@ redirect_from:
   </div>
 </div>
 
-
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
