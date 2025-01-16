@@ -208,7 +208,7 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-      <img src="/assets/images/aaa.png" 
+      <img src="/assets/images/A Bio-inspired Model for Bee Simulations.jpg" 
            alt="A Bio-inspired Model for Bee Simulations"
            style="width: 200px; height: auto;"
            >
@@ -287,7 +287,7 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-      <img src="/assets/images/aaa.png" 
+      <img src="/assets/images/A Practical Model for Realistic Butterfly Flight Simulation.jpg" 
            alt="A Practical Model for Realistic Butterfly Flight Simulation"
            style="width: 200px; height: auto;"
            >
@@ -338,7 +338,7 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-      <img src="/assets/images/aaa.png" 
+      <img src="/assets/images/Shape-constrained flying insects animation.jpg" 
            alt="Shape-constrained flying insects animation"
            style="width: 200px; height: auto;"
            >
