@@ -210,7 +210,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/A Bio-inspired Model for Bee Simulations.jpg" 
            alt="A Bio-inspired Model for Bee Simulations"
-           style="width: 250px; height: auto;"
+           style="width: 270px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
