@@ -298,7 +298,7 @@ redirect_from:
     <div class="paper-image">
       <img src="/assets/images/A Practical Model for Realistic Butterfly Flight Simulation.jpg" 
            alt="A Practical Model for Realistic Butterfly Flight Simulation"
-           style="width: 230px; height: auto;"
+           style="width: 220px; height: auto;"
            >
     </div>
     <!-- 文章内容部分 -->
@@ -328,7 +328,7 @@ redirect_from:
            alt="A linear wave propagation‐based simulation model for dense and polarized crowds"
            style="width: 200px; height: auto;"
            >
-  </div>
+    </div>
     <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">A linear wave propagation‐based simulation model for dense and polarized crowds</h3>
