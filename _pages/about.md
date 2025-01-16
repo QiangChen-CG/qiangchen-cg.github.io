@@ -210,7 +210,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/A Bio-inspired Model for Bee Simulations.jpg" 
            alt="A Bio-inspired Model for Bee Simulations"
-           style="width: 300px; height: auto;"
+           style="width: 250px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
@@ -289,7 +289,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/A Practical Model for Realistic Butterfly Flight Simulation.jpg" 
            alt="A Practical Model for Realistic Butterfly Flight Simulation"
-           style="width: 200px; height: auto;"
+           style="width: 230px; height: auto;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
