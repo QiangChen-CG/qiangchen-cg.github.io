@@ -315,7 +315,7 @@ redirect_from:
     <!-- 图片部分 -->
       <img src="/assets/images/A linear wave propagation‐based simulation model for dense and polarized crowds.jpg" 
            alt="A linear wave propagation‐based simulation model for dense and polarized crowds"
-           style="width: 200px; height: auto; margin-right: 20px;"
+           style="width: 250px; height: auto; margin-right: 20px;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
