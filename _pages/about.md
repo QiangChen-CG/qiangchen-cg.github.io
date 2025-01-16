@@ -208,12 +208,10 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-    <div class="paper-image">
       <img src="/assets/images/A Bio-inspired Model for Bee Simulations.jpg" 
            alt="A Bio-inspired Model for Bee Simulations"
-           style="width: 260px; height: auto;"
+           style="width: 260px; height: auto; margin-right: 20px;"
            >
-    </div>
     <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">A Bio-inspired Model for Bee Simulations</h3>
@@ -237,12 +235,10 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-    <div class="paper-image">
       <img src="/assets/images/aaa.png" 
            alt="Crowd evacuation simulation in flowing fluids"
-           style="width: 200px; height: auto;"
+           style="width: 200px; height: auto; margin-right: 20px;"
            >
-    </div>
     <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">Crowd evacuation simulation in flowing fluids</h3>
@@ -265,12 +261,10 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-    <div class="paper-image">
       <img src="/assets/images/aaa.png" 
            alt="Crowd evacuation simulation in flowing fluids"
-           style="width: 200px; height: auto;"
+           style="width: 200px; height: auto; margin-right: 20px;"
            >
-    </div>
     <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">A Practical Method for Butterfly Motion Capture</h3>
@@ -293,12 +287,10 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-    <div class="paper-image">
       <img src="/assets/images/A Practical Model for Realistic Butterfly Flight Simulation.jpg" 
            alt="A Practical Model for Realistic Butterfly Flight Simulation"
-           style="width: 220px; height: auto;"
+           style="width: 220px; height: auto; margin-right: 20px;"
            >
-    </div>
     <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">A Practical Model for Realistic Butterfly Flight Simulation</h3>
@@ -321,12 +313,10 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-    <div class="paper-image">
       <img src="/assets/images/aaa.png" 
            alt="A linear wave propagation‐based simulation model for dense and polarized crowds"
-           style="width: 200px; height: auto;"
+           style="width: 200px; height: auto; margin-right: 20px;"
            >
-    </div>
     <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">A linear wave propagation‐based simulation model for dense and polarized crowds</h3>
@@ -348,12 +338,10 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-    <div class="paper-image">
       <img src="/assets/images/Shape-constrained flying insects animation.jpg" 
            alt="Shape-constrained flying insects animation"
-           style="width: 200px; height: auto;"
+           style="width: 200px; height: auto; margin-right: 20px;"
            >
-    </div>
     <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">Shape-constrained flying insects animation</h3>
@@ -375,12 +363,10 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-    <div class="paper-image">
       <img src="/assets/images/aaa.png" 
            alt="Geometry Sampling for 3D Face Generation via DCGAN"
-           style="width: 200px; height: auto;"
+           style="width: 200px; height: auto; margin-right: 20px;"
            >
-    </div>
     <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">Geometry Sampling for 3D Face Generation via DCGAN</h3>
@@ -402,12 +388,10 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-    <div class="paper-image">
       <img src="/assets/images/aaa.png" 
            alt="The Action Consistency of Casting in Virtual Environment"
-           style="width: 200px; height: auto;"
+           style="width: 200px; height: auto; margin-right: 20px;"
            >
-    </div>
     <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">The Action Consistency of Casting in Virtual Environment</h3>
