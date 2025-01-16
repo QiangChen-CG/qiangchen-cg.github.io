@@ -313,7 +313,7 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-      <img src="/assets/images/aaa.png" 
+      <img src="/assets/images/A linear wave propagation‐based simulation model for dense and polarized crowds.jpg" 
            alt="A linear wave propagation‐based simulation model for dense and polarized crowds"
            style="width: 200px; height: auto; margin-right: 20px;"
            >
