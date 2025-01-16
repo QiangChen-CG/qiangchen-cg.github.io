@@ -48,6 +48,7 @@ html {
   display: flex; /* 启用 Flexbox 布局 */
   align-items: flex-start; /* 图片和文字顶部对齐 */
   margin-bottom: 20px; /* 每篇论文之间的间距 */
+ 
 }
 
 .paper-content {
@@ -64,6 +65,10 @@ html {
   font-size: 14px;
   color: #555;
   margin: 0 0 5px; /* 作者与链接之间的间距 */
+}
+
+.paper-image img {
+  margin-right: 10px;  /* 图片右侧与文字之间的间距 */
 }
 
 .paper-link {
