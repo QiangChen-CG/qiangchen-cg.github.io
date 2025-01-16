@@ -181,12 +181,10 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-    <div class="paper-image">
       <img src="/assets/images/aaa.png" 
            alt="Real-time Wing Deformation Simulations for Flying Insects"
-           style="width: 200px; height: auto;"
+           style="width: 200px; height: auto; margin-right: 20px;"
            >
-    </div>
     <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">Real-time Wing Deformation Simulations for Flying Insects</h3>
