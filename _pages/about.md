@@ -84,33 +84,6 @@ redirect_from:
   </p>
  
 
-<h1>Teaching Achievements.</h1>
-<ul>
-  <li>Main courses taught: <strong>Computer Graphics</strong> and <strong>Introduction to Virtual Reality</strong>.</li>
-  <li>Published one teaching reform paper, authored one monograph, and one textbook.</li>
-  <li>Led one university-level teaching project.</li>
-  <li>
-    Awarded the following:
-    <ul>
-      <li><strong>First Prize</strong> in the university finals.</li>
-      <li><strong>Third Prize</strong> at the provincial level in the 6th Jiangxi Province University Young Teachers Teaching Competition.</li>
-      <li>
-        <strong>Special Prize</strong> in the university-level competition of the 4th National University Teachers Teaching Innovation Competition 
-        (<em>Industry-Education Integration Track</em>).
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<h1>Student Competition Mentorship.</h1>
-<p>Guided students to repeatedly win top honors, including:</p>
-<ul>
-  <li>National First Prize in the China Virtual Reality Competition.</li>
-  <li>National Second Prize in the Higher Education Press Cup National College Student Mathematical Modeling Competition.</li>
-  <li>Special Prize in the Jiangxi Province Graduate Student Mathematical Modeling Competition.</li>
-  <li>First Prize in the Jiangxi Province Computer Works Contest.</li>
-</ul>
-
 <section id="Services">
 <h1>Academic and Professional Services.</h1>
 <ul>
@@ -220,10 +193,10 @@ redirect_from:
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
       <a href="/assets/Video/Video.mp4" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
-      <a href="/assets/Code/1" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
-      <a href="/assets/Dataset/1" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
+      <!--<a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a> -->
+      <!--<a href="/assets/Dataset/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a> -->
     </div>
   </div>
 </div>
