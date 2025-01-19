@@ -9,7 +9,7 @@ redirect_from:
 <section id="About">
   <h1>About Me.</h1>
 <p>
-    I am a master's and Ph.D. advisor at the <strong>School of Computer Science and Artificial Intelligence, Jiangxi University of Finance and Economics</strong>. 
+    Assistant Professor. I am a master's and Ph.D. supervisor at the <strong>School of Computer Science and Artificial Intelligence, Jiangxi University of Finance and Economics</strong>. 
     Previously, I was a lecturer at the <strong>School of Software, Nanchang University</strong>, and conducted a visiting study at the 
     <strong>National Key Laboratory of CAD&CG, Zhejiang University</strong>, in 2018.
   </p>
