@@ -42,7 +42,7 @@ redirect_from:
   <h1>Group Members.</h1>
   <p>PhD Students:</p>
   <ul>
-    <li><strong>Tingsong Lu (Ph.D.)</strong></li>
+    <li><strong>Tingsong Lu (Ph.D., Co-supervised)</strong></li>
   </ul>
   <p>Master Students:</p>
   <ul>
