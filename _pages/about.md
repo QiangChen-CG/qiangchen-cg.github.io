@@ -80,11 +80,7 @@ redirect_from:
     one project funded by the <strong>Jiangxi Provincial Natural Science Foundation</strong>,
     and <strong>three other provincial-level projects</strong>.
   </p>
-  <p>
-    I have also participated in multiple National Natural Science Foundation projects as well as provincial and ministerial-level projects.
-  </p>
-  <p>I have also participated in multiple National Natural Science Foundation projects as well as other provincial and ministerial-level projects.</p>
-</section>
+ 
 
 <h1>Teaching Achievements.</h1>
 <ul>
