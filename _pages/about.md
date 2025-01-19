@@ -41,7 +41,7 @@ redirect_from:
 </section>
 
 <section id="GroupMembers">
-  <h1>Group Members.</h1>
+  <h1>Group Members</h1>
   <p>PhD Students:</p>
   <ul>
     <li><strong>Tingsong Lu (Ph.D., Co-supervised)</strong></li>
@@ -64,7 +64,7 @@ redirect_from:
 </section>
 
 <section id="Achievements">
-  <h1>Research Achievements.</h1>
+  <h1>Research Achievements</h1>
  <!-- <hr> <!-- 使用 <hr> 添加水平分隔线 -->
   <p>
     In recent years, I have published over 10 academic journal and conference papers in prestigious international venues, including:
@@ -85,10 +85,10 @@ redirect_from:
  
 
 <section id="Services">
-<h1>Academic and Professional Services.</h1>
+<h1>Academic and Professional Services</h1>
 <ul>
   <li>Reviewer for journals including TVCG, TMM, VC, CAVW, and CG.</li>
-  <li>Reviewer for academic conferences such as SIGGRAPH Asia, Eurographics, and CGI.</li>
+  <li>Reviewer for academic conferences such as SIGGRAPH Asia, Eurographics, SCA, and CGI.</li>
   <li>Program Committee Member for the CGI2024 academic conference.</li>
   <li>Member of the Virtual Reality Special Committee of the China Society of Image and Graphics.</li>
   <li>Expert in the Jiangxi Province Forensic Appraisal Expert Database.</li>
@@ -126,18 +126,9 @@ redirect_from:
   </li>
 </ul>
 
-<--!
-</section>
-<section id="Monograph">
-<h1>Monograph.</h1>
-<ul>
-  <li>
-    Monograph: <strong><em>"Agent Simulation Algorithms Based on Fluid Models"</em></strong>, 
-    China Railway Publishing House, Qiang Chen, May 2022.
-  </li>
-</ul>
-</section>
--->
+
+
+
   
 <!--Invention Patent
 ------
@@ -352,7 +343,7 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-      <img src="/assets/images/aaa.png" 
+      <img src="/assets/images/3Dface.png" 
            alt="Geometry Sampling for 3D Face Generation via DCGAN"
            style="width: 200px; height: auto; margin-right: 20px;"
            >
@@ -379,7 +370,7 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-      <img src="/assets/images/aaa.png" 
+      <img src="/assets/images/ActionConsistencyofCasting.png" 
            alt="The Action Consistency of Casting in Virtual Environment"
            style="width: 200px; height: auto; margin-right: 20px;"
            >
