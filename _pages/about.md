@@ -8,8 +8,10 @@ redirect_from:
 ---
 <section id="About">
   <h1>About Me.</h1>
-<p>
-    Assistant Professor. I am a master's and Ph.D. supervisor at the <strong>School of Computer Science and Artificial Intelligence, Jiangxi University of Finance and Economics</strong>. 
+<p>Assistant Professor. Jiangxi Provincial Key Laboratory of Multimedia Intelligent Processing.
+  </p>
+  <p>
+     I am a master's and Ph.D. supervisor at the <strong>School of Computer Science and Artificial Intelligence, Jiangxi University of Finance and Economics</strong>. 
     Previously, I was a lecturer at the <strong>School of Software, Nanchang University</strong>, and conducted a visiting study at the 
     <strong>National Key Laboratory of CAD&CG, Zhejiang University</strong>, in 2018.
   </p>
@@ -35,7 +37,7 @@ redirect_from:
     <li><strong>Neural Representations for Robotics</strong></li>
     <li><strong>Other topics in Graphics and Vision</strong></li>
   </ul>
-  <p>If you are interested in visiting or applying for a research position (e.g., intern, PhD, visiting PhD, or postdoc) in the lab,Please contact my email address and I will contact you after receiving the email.</p>
+  <p>If you are interested in visiting or applying for a research position (e.g., intern, PhD, visiting PhD, or postdoc) in the lab, please contact my email address and I will contact you after receiving the email.</p>
 </section>
 
 <section id="GroupMembers">
