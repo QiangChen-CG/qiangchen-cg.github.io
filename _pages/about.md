@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <section id="About">
-  <h1>About Me.</h1>
+  <h1>About Me</h1>
 <p>Assistant Professor. Jiangxi Provincial Key Laboratory of Multimedia Intelligent Processing.
   </p>
   <p>
@@ -28,7 +28,7 @@ redirect_from:
     (<a href="http://www.cad.zju.edu.cn/home/jin/" target="_blank">National Key Laboratory of CAD&CG, Zhejiang University</a>).
   </p>
 
-  <h1>Prospective Students.</h1>
+  <h1>Prospective Students</h1>
   <p>There are multiple open research positions in my Lab.</p>
   <p>Topics of interest include:</p>
   <ul>
@@ -92,12 +92,12 @@ redirect_from:
   <li>Program Committee Member for the CGI2024 academic conference.</li>
   <li>Member of the Virtual Reality Special Committee of the China Society of Image and Graphics.</li>
   <li>Expert in the Jiangxi Province Forensic Appraisal Expert Database.</li>
-  <li>Vice Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association.</li>
+  <li>Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association.</li>
 </ul>
 </section>
 
 <section id="Project">
-<h1>Research Projects.</h1>
+<h1>Research Projects</h1>
 <ul>
   <li>
     National Natural Science Foundation Project, 
@@ -126,7 +126,7 @@ redirect_from:
   </li>
 </ul>
 </section>
-
+<--!
 <section id="Monograph">
 <h1>Monograph.</h1>
 <ul>
@@ -136,7 +136,8 @@ redirect_from:
   </li>
 </ul>
 </section>
-
+-->
+  
 <!--Invention Patent
 ------
 1. **Qiang Chen**, Wenxu Guo, Yuming Fang, et al., **"*A Virtual Bee Flight Control Method*"**. September 2023, China, Patent No. 202311148614.X (Invention Patent, Authorized).
@@ -160,16 +161,18 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">Real-time Wing Deformation Simulations for Flying Insects</h3>
       <p class="paper-authors">
-        <strong>Qiang Chen</strong>, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo.
+        <strong>Qiang Chen</strong>, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo. ACM SIGGRAPH 2024 Conference Papers. 2024: 1-11.
       </p>
       <a href="/assets/paper/Real-time Wing Deformation Simulations for Flying Insects.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
       <a href="/assets/Video/Video.mp4" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+     <!--
       <a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
       <a href="#" 
          class="paper-link" onclick="return false;">[Dataset]</a>
+       -->
     </div>
   </div>
 </div>
@@ -187,16 +190,18 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">A Bio-inspired Model for Bee Simulations</h3>
       <p class="paper-authors">
-        <strong>Qiang Chen</strong>, Wenxu Guo, Yuming Fang, Yang Tong, Tingsong Lu, Xiaogang Jin, and Zhigang Deng.
+        <strong>Qiang Chen</strong>, Wenxu Guo, Yuming Fang, Yang Tong, Tingsong Lu, Xiaogang Jin, and Zhigang Deng. IEEE Transactions on Visualization and Computer Graphics, 2024.
       </p>
       <a href="/assets/paper/A Bio-inspired Model for Bee Simulations.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
       <a href="/assets/Video/Video.mp4" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
-      <!--<a href="/assets/Code/1" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a> -->
-      <!--<a href="/assets/Dataset/1" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a> -->
+          <!--
+      <a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+      <a href="#" 
+         class="paper-link" onclick="return false;">[Dataset]</a>
+       -->
     </div>
   </div>
 </div>
@@ -214,16 +219,18 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">Crowd evacuation simulation in flowing fluids</h3>
       <p class="paper-authors">
-        Xunjin Zou, Yunqing Ye, Zhenming Zhu, <strong>Qiang Chen*</strong>.
+        Xunjin Zou, Yunqing Ye, Zhenming Zhu, <strong>Qiang Chen*</strong>. Computer Animation and Virtual Worlds, Wiley, 2023, 32(1): e2161. 
       </p>
       <a href="/assets/paper/Crowd evacuation simulation in flowing fluids.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
+      <!--
       <a href="/assets/Video/Video.mp4" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
       <a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
       <a href="/assets/Dataset/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
+      -->
     </div>
   </div>
 </div>
@@ -233,23 +240,27 @@ redirect_from:
   <div class="paper-item">
     <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
-           alt="Crowd evacuation simulation in flowing fluids"
+           alt="A Practical Method for Butterfly Motion Capture"
            style="width: 200px; height: auto; margin-right: 20px;"
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
       <h3 class="paper-title">A Practical Method for Butterfly Motion Capture</h3>
       <p class="paper-authors">
-        <strong>Qiang Chen</strong>, Lu T, Tong Y, et al.
+        <strong>Qiang Chen</strong>, Tingsong Lu, Yang Tong, Yuming Fang, Zhigang Deng. Proceedings of the 15th ACM SIGGRAPH Conference on Motion, Interaction and Games. 2022: 1-9
       </p>
       <a href="/assets/paper/A Practical Method for Butterfly Motion Capture.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
+
+      <!--
       <a href="/assets/Video/Video.mp4" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
       <a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
-      <a href="/assets/Dataset/1" 
+          -->
+      <a href="https://github.com/QiangChen-CG/butterflymotiondatasets" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
+       
     </div>
   </div>
 </div>
@@ -272,10 +283,12 @@ redirect_from:
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
       <a href="/assets/Video/Video.mp4" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <!--
       <a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
       <a href="/assets/Dataset/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
+      -->
     </div>
   </div>
 </div>
@@ -298,10 +311,12 @@ redirect_from:
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
       <a href="/assets/Video/Video.mp4" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <!--
       <a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
       <a href="/assets/Dataset/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
+      -->
     </div>
   </div>
 </div>
