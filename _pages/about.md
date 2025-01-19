@@ -87,8 +87,8 @@ redirect_from:
 <section id="Services">
 <h1>Academic and Professional Services.</h1>
 <ul>
-  <li>Reviewer for journals including TVCG, CAVW, and CG.</li>
-  <li>Reviewer for academic conferences such as SIGGRAPH Asia and Eurographics.</li>
+  <li>Reviewer for journals including TVCG, TMM, VC, CAVW, and CG.</li>
+  <li>Reviewer for academic conferences such as SIGGRAPH Asia, Eurographics, and CGI.</li>
   <li>Program Committee Member for the CGI2024 academic conference.</li>
   <li>Member of the Virtual Reality Special Committee of the China Society of Image and Graphics.</li>
   <li>Expert in the Jiangxi Province Forensic Appraisal Expert Database.</li>
@@ -100,33 +100,34 @@ redirect_from:
 <h1>Research Projects</h1>
 <ul>
   <li>
-    National Natural Science Foundation Project, 
+    National Natural Science Foundation Project of China, 
     <strong><em>"Research on Data-Driven Flexible Deformation and Flight Simulation of Butterflies"</em></strong>, 
-    Project No. 62262024, Duration: January 2023 - December 2026, Ongoing, Principal Investigator.
+    Project No. 62262024, Duration: January 2023 - December 2026.
   </li>
   <li>
     Jiangxi Provincial Natural Science Foundation Project, 
     <strong><em>"Research on Aerodynamics-Based Dynamic Simulation and Posture Generation of Flying Insects"</em></strong>, 
-    Project No. 20232BAB202023, Duration: July 2023 - July 2026, Ongoing, Principal Investigator.
+    Project No. 20232BAB202023, Duration: July 2023 - July 2026.
   </li>
   <li>
     Jiangxi Provincial Department of Education Science and Technology Research Project, 
     <strong><em>"Simulation Research on the Impact of Physical Environment on High-Density Crowds"</em></strong>, 
-    Project No. GJJ201511, Duration: January 2022 - December 2023, Completed, Principal Investigator.
+    Project No. GJJ201511, Duration: January 2022 - December 2023.
   </li>
   <li>
     Jiangxi Provincial Department of Education Science and Technology Research Project, 
     <strong><em>"Macroscopic Modeling and Evaluation Methods for Large-Scale Crowds Based on Fluid Dynamics"</em></strong>, 
-    Project No. GJJ207109, Duration: January 2021 - December 2022, Completed, Principal Investigator.
+    Project No. GJJ207109, Duration: January 2021 - December 2022.
   </li>
   <li>
     Jiangxi Provincial Graduate Innovation Fund Project, 
     <strong><em>"Research on Deformation Animation of Biological Groups"</em></strong>, 
-    Jiangxi Provincial Department of Education, 2018, Completed, Principal Investigator.
+    Jiangxi Provincial Department of Education, 2018.
   </li>
 </ul>
-</section>
+
 <--!
+</section>
 <section id="Monograph">
 <h1>Monograph.</h1>
 <ul>
@@ -211,7 +212,7 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-      <img src="/assets/images/aaa.png" 
+      <img src="/assets/images/safeDestination.png" 
            alt="Crowd evacuation simulation in flowing fluids"
            style="width: 200px; height: auto; margin-right: 20px;"
            >
@@ -239,7 +240,7 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-      <img src="/assets/images/aaa.png" 
+      <img src="/assets/images/insectMoCap.png" 
            alt="A Practical Method for Butterfly Motion Capture"
            style="width: 200px; height: auto; margin-right: 20px;"
            >
@@ -277,7 +278,7 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">A Practical Model for Realistic Butterfly Flight Simulation</h3>
       <p class="paper-authors">
-        <strong>Qiang Chen</strong>, Tingsong Lu, Yang Tong, Guoliang Luo, Xiaogang Jin, Zhigang Deng.
+        <strong>Qiang Chen</strong>, Tingsong Lu, Yang Tong, Guoliang Luo, Xiaogang Jin, Zhigang Deng. ACM Transactions on Graphics (TOG), 2022, 41(3): 1-12.
       </p>
       <a href="/assets/paper/A Practical Model for Realistic Butterfly Flight Simulation.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
@@ -305,7 +306,7 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">A linear wave propagation‐based simulation model for dense and polarized crowds</h3>
       <p class="paper-authors">
-        <strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng.
+        <strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng. Computer Animation and Virtual Worlds, 2021, 32(1): e1977. 
       </p>
       <a href="/assets/paper/A linear wave propagation‐based simulation model for dense and polarized crowds.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
@@ -332,16 +333,18 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">Shape-constrained flying insects animation</h3>
       <p class="paper-authors">
-        <strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng.
+        <strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng. Computer Animation and Virtual Worlds, Wiley, 2019, 30(3-4): e1920.
       </p>
       <a href="/assets/paper/Shape-constrained flying insects animation.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
       <a href="/assets/Video/Video.mp4" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <!--
       <a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
       <a href="/assets/Dataset/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
+      -->
     </div>
   </div>
 </div>
@@ -357,16 +360,18 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">Geometry Sampling for 3D Face Generation via DCGAN</h3>
       <p class="paper-authors">
-        Guoliang Luo, Xin Zhao, Yang Tong, <strong>Qiang Chen</strong>, Zhiliang Zhu, Haopeng Lei and Juncong Lin.
+        Guoliang Luo, Xin Zhao, Yang Tong, <strong>Qiang Chen</strong>, Zhiliang Zhu, Haopeng Lei and Juncong Lin. 2020 International Joint Conference on Neural Networks (IJCNN). 2020
       </p>
       <a href="/assets/paper/Geometry Sampling for 3D Face Generation via DCGAN.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
+      <!--
       <a href="/assets/Video/Video.mp4" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
       <a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
       <a href="/assets/Dataset/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
+      -->
     </div>
   </div>
 </div>
@@ -382,16 +387,18 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">The Action Consistency of Casting in Virtual Environment</h3>
       <p class="paper-authors">
-        Guoliang Luo, Zeiwei Guan, Guoming Xiong, <strong>Qiang Chen</strong> etc.
+        Guoliang Luo, Zeiwei Guan, Guoming Xiong, <strong>Qiang Chen</strong>, Meihua Xiao, and Shihui Guo. 2020 International Conference on Virtual Reality and Visualization (ICVRV). 2020.8
       </p>
       <a href="/assets/paper/The Action Consistency of Casting in Virtual Environment.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
+     <!--
       <a href="/assets/Video/Video.mp4" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
       <a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
       <a href="/assets/Dataset/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
+      -->
     </div>
   </div>
 </div>
