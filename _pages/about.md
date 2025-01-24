@@ -313,32 +313,6 @@ redirect_from:
   </div>
 </div>
 
-<div class="paper-list">
-  <div class="paper-item">
-    <!-- 图片部分 -->
-      <img src="/assets/images/Shape-constrained flying insects animation.jpg" 
-           alt="Shape-constrained flying insects animation"
-           style="width: 160px; height: 120px; margin-right: 20px;"
-           >
-    <!-- 文章内容部分 -->
-    <div class="paper-content">
-      <h3 class="paper-title">Shape-constrained flying insects animation</h3>
-      <p class="paper-authors">
-        <strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng. Computer Animation and Virtual Worlds, Wiley, 2019, 30(3-4): e1920.
-      </p>
-      <a href="/assets/paper/Shape-constrained flying insects animation.pdf" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
-      <a href="https://www.youtube.com/watch?v=4SfVb3ZEQAw" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
-      <!--
-      <a href="/assets/Code/1" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
-      <a href="/assets/Dataset/1" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
-      -->
-    </div>
-  </div>
-</div>
 
 <div class="paper-list">
   <div class="paper-item">
@@ -385,6 +359,33 @@ redirect_from:
      <!--
       <a href="/assets/Video/Video.mp4" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+      <a href="/assets/Dataset/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
+      -->
+    </div>
+  </div>
+</div>
+
+<div class="paper-list">
+  <div class="paper-item">
+    <!-- 图片部分 -->
+      <img src="/assets/images/Shape-constrained flying insects animation.jpg" 
+           alt="Shape-constrained flying insects animation"
+           style="width: 160px; height: 120px; margin-right: 20px;"
+           >
+    <!-- 文章内容部分 -->
+    <div class="paper-content">
+      <h3 class="paper-title">Shape-constrained flying insects animation</h3>
+      <p class="paper-authors">
+        <strong>Qiang Chen</strong>, Guoliang Luo, Yang Tong, Xiaogang Jin, Zhigang Deng. Computer Animation and Virtual Worlds, Wiley, 2019, 30(3-4): e1920.
+      </p>
+      <a href="/assets/paper/Shape-constrained flying insects animation.pdf" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
+      <a href="https://www.youtube.com/watch?v=4SfVb3ZEQAw" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+      <!--
       <a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
       <a href="/assets/Dataset/1" 
