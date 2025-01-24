@@ -157,7 +157,7 @@ redirect_from:
       </p>
       <a href="/assets/paper/Real-time Wing Deformation Simulations for Flying Insects.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
-      <a href="/assets/Video/Video.mp4" 
+      <a href="https://www.youtube.com/watch?v=_WH2GpYKIZg" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
      <!--
       <a href="/assets/Code/1" 
@@ -186,7 +186,7 @@ redirect_from:
       </p>
       <a href="/assets/paper/A Bio-inspired Model for Bee Simulations.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
-      <a href="/assets/Video/Video.mp4" 
+      <a href="https://www.youtube.com/watch?v=fvRYbIotM4Y&t=15s" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
           <!--
       <a href="/assets/Code/1" 
@@ -244,10 +244,10 @@ redirect_from:
       <a href="/assets/paper/A Practical Method for Butterfly Motion Capture.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
 
-      <!--
-      <a href="/assets/Video/Video.mp4" 
+      
+      <a href="/assets/Video/Demo_MIG2022_A Practical Method for Butterfly Motion Capture.mp4" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
-      <a href="/assets/Code/1" 
+      <!--<a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
           -->
       <a href="https://github.com/QiangChen-CG/butterflymotiondatasets" 
@@ -273,7 +273,7 @@ redirect_from:
       </p>
       <a href="/assets/paper/A Practical Model for Realistic Butterfly Flight Simulation.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
-      <a href="/assets/Video/Video.mp4" 
+      <a href="https://www.youtube.com/watch?v=_6cuoTipGAs&t=52s" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
       <!--
       <a href="/assets/Code/1" 
@@ -301,7 +301,7 @@ redirect_from:
       </p>
       <a href="/assets/paper/A linear wave propagation‐based simulation model for dense and polarized crowds.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
-      <a href="/assets/Video/Video.mp4" 
+      <a href="https://www.youtube.com/watch?v=ak-AZjRzT20&t=5s" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
       <!--
       <a href="/assets/Code/1" 
@@ -328,7 +328,7 @@ redirect_from:
       </p>
       <a href="/assets/paper/Shape-constrained flying insects animation.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
-      <a href="/assets/Video/Video.mp4" 
+      <a href="https://www.youtube.com/watch?v=4SfVb3ZEQAw" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
       <!--
       <a href="/assets/Code/1" 
