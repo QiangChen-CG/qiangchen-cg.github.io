@@ -20,10 +20,10 @@ redirect_from:
     Master's and Bachelor's degrees in <strong>Software Engineering</strong> from <strong>Nanchang University</strong>.
   </p>
   <p>
-    My research interests lie in the interdisciplinary fields of <strong>Virtual Reality (VR) technology</strong> and <strong>computer animation</strong>, 
-    with a focus on large-scale crowd simulation and insect animation simulation. 
-    I was mentored by Professor <strong>Zhigang Deng</strong> 
-    (<a href="http://graphics.cs.uh.edu/zdeng/" target="_blank">Chinese-American, University of Houston, USA</a>) and 
+    My research interests lie in the interdisciplinary fields of <strong>Virtual Reality (VR) technology</strong>, <strong>Computer Graphics</strong>, and <strong>Computer Animation</strong>.  
+    I specialize in large-scale crowd simulation, insect animation, and character simulation. 
+    I was mentored by Professor <strong>Zhigang Deng</strong> from 
+    (<a href="http://graphics.cs.uh.edu/zdeng/" target="_blank"> University of Houston</a>) and 
     Professor <strong>Xiaogang Jin</strong> 
     (<a href="http://www.cad.zju.edu.cn/home/jin/" target="_blank">National Key Laboratory of CAD&CG, Zhejiang University</a>).
   </p>
@@ -37,7 +37,7 @@ redirect_from:
     <li><strong>Neural Representations for Robotics</strong></li>
     <li><strong>Other topics in Graphics and Vision</strong></li>
   </ul>
-  <p>If you are interested in visiting or applying for a research position (e.g., intern, PhD, visiting PhD, or postdoc) in the lab, please contact my email address and I will contact you after receiving the email.</p>
+  <p>If you are interested in exploring research opportunities in our lab—whether as an intern, PhD candidate, visiting PhD, or postdoctoral researcher—please feel free to reach out to me without hesitation. I would be delighted to discuss potential positions with you!</p>
 </section>
 
 <section id="GroupMembers">
