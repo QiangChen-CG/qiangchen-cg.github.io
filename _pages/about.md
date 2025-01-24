@@ -140,7 +140,7 @@ redirect_from:
 6. Guoliang Luo, **Qiang Chen**, et al., **"*A Large-Scale 3D Face Synthesis System with Sample Similarity Suppression*"**, June 2020, China, Patent No. 202010612054.9 (Invention Patent, Authorized).
 -->
 
-<section id="Publications">
+<section id="Selected Publications">
 <h1>Publications</h1>
 <div class="paper-list">
   <div class="paper-item">
