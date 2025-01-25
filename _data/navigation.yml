@@ -7,7 +7,10 @@
 main:
   - title: "About"
     url: "#About"
-    
+
+  - title: "Prospective Students"
+    url: "#Prospective Students" 
+  
   - title: "Group Members"
     url: "#GroupMembers"
     
@@ -17,7 +20,7 @@ main:
   - title: "Services"
     url: "#Services" 
 
-  - title: "Project"
+  - title: "Projects"
     url: "#Project"
 
   - title: "Publications"
