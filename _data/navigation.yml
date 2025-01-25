@@ -9,7 +9,7 @@ main:
     url: "#About"
 
   - title: "Prospective Students"
-    url: "#Prospective Students" 
+    url: "#ProspectiveStudents" 
   
   - title: "Group Members"
     url: "#GroupMembers"
