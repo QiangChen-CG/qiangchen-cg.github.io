@@ -144,7 +144,37 @@ redirect_from:
 
 <section id="Publications">
 <h1>Publications</h1>
+
 <div class="paper-list">
+  <div class="paper-item">
+    <!-- 图片部分 -->
+      <img src="/assets/images/Ast.png" 
+           alt="Decoding Emotions: How Ocular Features Influence Perception of Emotional Intensity in Virtual Characters"
+           style="width: 160px; height: 120px; margin-right: 20px;"
+           >
+    <!-- 文章内容部分 -->
+    <div class="paper-content">
+      <h3 class="paper-title">Decoding Emotions: How Ocular Features Influence Perception of Emotional Intensity in Virtual Characters</h3>
+      <p class="paper-authors">
+        <strong>Qiang Chen</strong>,Mingfang Mao, Tingsong Lu, Shikun Zhou, Yuming Fang. Computer Graphics Interface 2025 Procceding Papers. 2025: 7.
+      </p>
+      <a href="/assets/paper/Paper40_Decoding Emotions_ How Ocular Features Influence Perception of Emotional Intensity in Virtual Characters.pdf" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
+      <!--
+      <a href="https://www.youtube.com/watch?v=_WH2GpYKIZg" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>     
+      <a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+      <a href="#" 
+         class="paper-link" onclick="return false;">[Dataset]</a>
+       -->
+    </div>
+  </div>
+</div>
+  
+  
+  
+  <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
       <img src="/assets/images/aaa.png" 
