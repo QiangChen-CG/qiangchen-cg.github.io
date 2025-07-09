@@ -156,7 +156,7 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">Decoding Emotions: How Ocular Features Influence Perception of Emotional Intensity in Virtual Characters</h3>
       <p class="paper-authors">
-        <strong>Qiang Chen</strong>,Mingfang Mao, Tingsong Lu, Shikun Zhou, Yuming Fang. Computer Graphics Interface 2025 Procceding Papers. 2025: 7.
+        <strong>Qiang Chen</strong>,Mingfang Mao, Tingsong Lu, Shikun Zhou, Yuming Fang. Computer Graphics International 2025 LNCS Proceedings Paper. 2025: 7.
       </p>
       <a href="/assets/paper/Paper40_Decoding Emotions_ How Ocular Features Influence Perception of Emotional Intensity in Virtual Characters.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
@@ -185,7 +185,7 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">Real-time Wing Deformation Simulations for Flying Insects</h3>
       <p class="paper-authors">
-        <strong>Qiang Chen</strong>, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo. ACM SIGGRAPH 2024 Conference Papers. 2024: 1-11.
+        <strong>Qiang Chen</strong>, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo. ACM SIGGRAPH 2024 Conference Paper. 2024: 1-11.
       </p>
       <a href="/assets/paper/Real-time Wing Deformation Simulations for Flying Insects.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
