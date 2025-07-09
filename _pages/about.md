@@ -156,7 +156,7 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">A Multimodal Emotional Response Dataset from 360° VR Videos Across Different Age Groups</h3>
       <p class="paper-authors">
-        <strong>Qiang Chen</strong>,Mingfang Mao, Tingsong Lu, Shikun Zhou, Yuming Fang. ICMI 2025, accepted.
+        <strong>Qiang Chen</strong>, Shikun Zhou, Yuming Fang, Dan Luo, Tingsong Lu. ICMI 2025, accepted.
       </p>
       <a href="/assets/paper/MERD__Multimodal_Emotional_Response_Dataset_from_360__VR_Videos_Across_Different_Age_Groups_ICMI2025_.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
@@ -183,7 +183,7 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">Decoding Emotions: How Ocular Features Influence Perception of Emotional Intensity in Virtual Characters</h3>
       <p class="paper-authors">
-        <strong>Qiang Chen</strong>,Mingfang Mao, Tingsong Lu, Shikun Zhou, Yuming Fang. Computer Graphics International 2025 LNCS Proceedings Paper. 2025: 7.
+        <strong>Qiang Chen</strong>, Mingfang Mao, Tingsong Lu, Shikun Zhou, Yuming Fang. Computer Graphics International 2025 LNCS Proceedings Paper. 2025: 7.
       </p>
       <a href="/assets/paper/Paper40_Decoding Emotions_ How Ocular Features Influence Perception of Emotional Intensity in Virtual Characters.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
