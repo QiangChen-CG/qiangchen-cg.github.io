@@ -148,6 +148,33 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
+      <img src="/assets/images/HM and EM data analysis chart1.png" 
+           alt="A Multimodal Emotional Response Dataset from 360° VR Videos Across Different Age Groups"
+           style="width: 160px; height: 120px; margin-right: 20px;"
+           >
+    <!-- 文章内容部分 -->
+    <div class="paper-content">
+      <h3 class="paper-title">A Multimodal Emotional Response Dataset from 360° VR Videos Across Different Age Groups</h3>
+      <p class="paper-authors">
+        <strong>Qiang Chen</strong>,Mingfang Mao, Tingsong Lu, Shikun Zhou, Yuming Fang. ICMI 2025, accepted.
+      </p>
+      <a href="/assets/paper/MERD__Multimodal_Emotional_Response_Dataset_from_360__VR_Videos_Across_Different_Age_Groups_ICMI2025_.pdf" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
+      <!--
+      <a href="https://www.youtube.com/watch?v=_WH2GpYKIZg" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>     
+      <a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+      <a href="#" 
+         class="paper-link" onclick="return false;">[Dataset]</a>
+       -->
+    </div>
+  </div>
+</div>
+
+<div class="paper-list">
+  <div class="paper-item">
+    <!-- 图片部分 -->
       <img src="/assets/images/Ast.png" 
            alt="Decoding Emotions: How Ocular Features Influence Perception of Emotional Intensity in Virtual Characters"
            style="width: 160px; height: 120px; margin-right: 20px;"
