@@ -22,10 +22,10 @@ redirect_from:
   <p>
     My research interests lie in the interdisciplinary fields of <strong>Virtual Reality (VR) technology</strong>, <strong>Computer Graphics</strong>, and <strong>Computer Animation</strong>.  
     I specialize in large-scale crowd simulation, insect animation, and character simulation. 
-    I was mentored by Professor <strong>Zhigang Deng</strong> 
-    (<a href="http://graphics.cs.uh.edu/zdeng/" target="_blank"> University of Houston</a>) and 
-    Professor <strong>Xiaogang Jin</strong> 
-    (<a href="http://www.cad.zju.edu.cn/home/jin/" target="_blank">National Key Laboratory of CAD&CG, Zhejiang University</a>).
+    I was mentored by Professor <a href="http://graphics.cs.uh.edu/zdeng/" target="_blank"><strong>Zhigang Deng</strong> </a>
+    ( University of Houston) and 
+    Professor <a href="http://www.cad.zju.edu.cn/home/jin/" target="_blank"><strong>Xiaogang Jin</strong> </a>
+    (National Key Laboratory of CAD&CG, Zhejiang University).
   </p>
 </section>
 
@@ -46,7 +46,7 @@ redirect_from:
   <h1>Group Members</h1>
   <p>PhD Students:</p>
   <ul>
-    <li><strong>Tingsong Lu (Ph.D., Co-supervised)</strong></li>
+    <li><strong>Tingsong Lu (2023, Ph.D., Co-supervised)</strong></li>
   </ul>
   <p>Master Students:</p>
   <ul>
