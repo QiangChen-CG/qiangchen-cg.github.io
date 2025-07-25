@@ -50,18 +50,18 @@ redirect_from:
   </ul>
   <p>Master Students:</p>
   <ul>
-    <li><strong>Feng Li (Master)</strong></li>
-    <li><strong>Wenxu Guo (Master)</strong></li>
-    <li><strong>Mingfang Mao (Master)</strong></li>
-    <li><strong>Binsong Zuo (Master)</strong></li>
-    <li><strong>Yang Xiao (Master)</strong></li>
-    <li><strong>Lihui Wu (Master)</strong></li>
-    <li><strong>Quan Wang (Master)</strong></li>
-    <li><strong>Shikun Zhou (Master)</strong></li>
-    <li><strong>Jiajun Chen (Master)</strong></li>
-    <li><strong>Jundong Qiu (Master)</strong></li>
-    <li><strong>Zesen Huang (Master)</strong></li>
-    <li><strong>Yuhan Cui (Master)</strong></li>
+    <li><strong>Feng Li (2021, Master)</strong></li>
+    <li><strong>Wenxu Guo (2021, Master)</strong></li>
+    <li><strong>Mingfang Mao (2022, Master)</strong></li>
+    <li><strong>Binsong Zuo (2022, Master)</strong></li>
+    <li><strong>Yang Xiao (2022, Master)</strong></li>
+    <li><strong>Lihui Wu (2023, Master)</strong></li>
+    <li><strong>Quan Wang (2023, Master)</strong></li>
+    <li><strong>Shikun Zhou (2023, Master)</strong></li>
+    <li><strong>Jiajun Chen (2024, Master)</strong></li>
+    <li><strong>Jundong Qiu (2024, Master)</strong></li>
+    <li><strong>Zesen Huang (2024, Master)</strong></li>
+    <li><strong>Yuhan Cui (2024, Master)</strong></li>
   </ul>
 </section>
 
@@ -91,7 +91,7 @@ redirect_from:
 <ul>
   <li>Reviewer for journals including TVCG, TMM, VC, CAVW, and CG.</li>
   <li>Reviewer for academic conferences such as SIGGRAPH Asia, Eurographics, SCA, and CGI.</li>
-  <li>Program Committee Member for the CGI2024 academic conference.</li>
+  <li>Program Committee Member for the CGI2024/2025 academic conference.</li>
   <li>Member of the Virtual Reality Special Committee of the China Society of Image and Graphics.</li>
   <li>Expert in the Jiangxi Province Forensic Appraisal Expert Database.</li>
   <li>Chairperson of the Audio-Visual Materials Appraisal Special Committee of the Jiangxi Province Forensic Appraisal Association.</li>
@@ -154,19 +154,20 @@ redirect_from:
            >
     <!-- 文章内容部分 -->
     <div class="paper-content">
-      <h3 class="paper-title">A Multimodal Emotional Response Dataset from 360° VR Videos Across Different Age Groups</h3>
+      <h3 class="paper-title">MERD-360VR: A Multimodal Emotional Response Dataset from 360° VR Videos Across Different Age Groups</h3>
       <p class="paper-authors">
-        <strong>Qiang Chen</strong>, Shikun Zhou, Yuming Fang, Dan Luo, Tingsong Lu. 27th ACM International Conference on Multimodal Interaction (ICMI 2025), accepted.
+        <strong>Qiang Chen</strong>, Shikun Zhou, Yuming Fang, Dan Luo, and Tingsong Lu. 2025. MERD-360VR: A Multimodal Emotional Response Dataset from 360° VRVideos Across Different Age Groups. In Proceedings of the 27th International  Conference on Multimodal Interaction (ICMI ’25), October 13–17, 2025, Canberra, ACT, Australia. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3716553.3750777.
       </p>
       <a href="/assets/paper/MERD__Multimodal_Emotional_Response_Dataset_from_360__VR_Videos_Across_Different_Age_Groups_ICMI2025_.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
+      <a href="#" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
       <!--
       <a href="https://www.youtube.com/watch?v=_WH2GpYKIZg" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>     
       <a href="/assets/Code/1" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
-      <a href="#" 
-         class="paper-link" onclick="return false;">[Dataset]</a>
+      
        -->
     </div>
   </div>
