@@ -158,7 +158,7 @@ redirect_from:
       <p class="paper-authors">
         <strong>Qiang Chen</strong>, Shikun Zhou, Yuming Fang, Dan Luo, and Tingsong Lu. 2025. MERD-360VR: A Multimodal Emotional Response Dataset from 360° VRVideos Across Different Age Groups. In Proceedings of the 27th International  Conference on Multimodal Interaction (ICMI ’25), October 13–17, 2025, Canberra, ACT, Australia. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3716553.3750777.
       </p>
-      <a href="/assets/paper/MERD__Multimodal_Emotional_Response_Dataset_from_360__VR_Videos_Across_Different_Age_Groups_ICMI2025_.pdf" 
+      <a href="/assets/paper/MERD-360VR_ICMI2025.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
       <a href="https://drive.google.com/open?id=1aI9KqXMiDMDnbweoKTGnKSsx6FGru0tb&usp=drive_fs" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Dataset]</a>
@@ -166,8 +166,7 @@ redirect_from:
       <a href="https://www.youtube.com/watch?v=_WH2GpYKIZg" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>     
       <a href="/assets/Code/1" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
-      
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>      
        -->
     </div>
   </div>
@@ -213,7 +212,7 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">Real-time Wing Deformation Simulations for Flying Insects</h3>
       <p class="paper-authors">
-        <strong>Qiang Chen</strong>, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo. ACM SIGGRAPH 2024 Conference Paper. 2024: 1-11.
+        <strong>Qiang Chen</strong>, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo. ACM SIGGRAPH 2024 Conference Papers. 2024: 1-11.
       </p>
       <a href="/assets/paper/Real-time Wing Deformation Simulations for Flying Insects.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
@@ -242,7 +241,7 @@ redirect_from:
     <div class="paper-content">
       <h3 class="paper-title">A Bio-inspired Model for Bee Simulations</h3>
       <p class="paper-authors">
-        <strong>Qiang Chen</strong>, Wenxu Guo, Yuming Fang, Yang Tong, Tingsong Lu, Xiaogang Jin, and Zhigang Deng. IEEE Transactions on Visualization and Computer Graphics, 2024.
+        <strong>Qiang Chen</strong>, Wenxu Guo, Yuming Fang, Yang Tong, Tingsong Lu, Xiaogang Jin, and Zhigang Deng. IEEE Transactions on Visualization & Computer Graphics, 2025, 31(04): 2073-2085.
       </p>
       <a href="/assets/paper/A Bio-inspired Model for Bee Simulations.pdf" 
          class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
