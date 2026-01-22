@@ -227,36 +227,6 @@ redirect_from:
   </div>
 </div>
   
-  
-  
-  <div class="paper-list">
-  <div class="paper-item">
-    <!-- 图片部分 -->
-      <img src="/assets/images/aaa.png" 
-           alt="Real-time Wing Deformation Simulations for Flying Insects"
-           style="width: 160px; height: 120px; margin-right: 20px;"
-           >
-    <!-- 文章内容部分 -->
-    <div class="paper-content">
-      <h3 class="paper-title">Real-time Wing Deformation Simulations for Flying Insects</h3>
-      <p class="paper-authors">
-        <strong>Qiang Chen</strong>, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo. ACM SIGGRAPH 2024 Conference Papers. 2024: 1-11.
-      </p>
-      <a href="/assets/paper/Real-time Wing Deformation Simulations for Flying Insects.pdf" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
-      <a href="https://www.youtube.com/watch?v=_WH2GpYKIZg" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
-     <!--
-      <a href="/assets/Code/1" 
-         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
-      <a href="#" 
-         class="paper-link" onclick="return false;">[Dataset]</a>
-       -->
-    </div>
-  </div>
-</div>
-
-
 
 <div class="paper-list">
   <div class="paper-item">
@@ -285,6 +255,33 @@ redirect_from:
   </div>
 </div>
 
+ 
+  <div class="paper-list">
+  <div class="paper-item">
+    <!-- 图片部分 -->
+      <img src="/assets/images/aaa.png" 
+           alt="Real-time Wing Deformation Simulations for Flying Insects"
+           style="width: 160px; height: 120px; margin-right: 20px;"
+           >
+    <!-- 文章内容部分 -->
+    <div class="paper-content">
+      <h3 class="paper-title">Real-time Wing Deformation Simulations for Flying Insects</h3>
+      <p class="paper-authors">
+        <strong>Qiang Chen</strong>, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo. ACM SIGGRAPH 2024 Conference Papers. 2024: 1-11.
+      </p>
+      <a href="/assets/paper/Real-time Wing Deformation Simulations for Flying Insects.pdf" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>
+      <a href="https://www.youtube.com/watch?v=_WH2GpYKIZg" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Video]</a>
+     <!--
+      <a href="/assets/Code/1" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[Code]</a>
+      <a href="#" 
+         class="paper-link" onclick="return false;">[Dataset]</a>
+       -->
+    </div>
+  </div>
+</div>
 
 
 <div class="paper-list">
