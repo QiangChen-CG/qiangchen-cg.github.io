@@ -84,9 +84,9 @@ redirect_from:
     I have also been granted <strong>more than 10 invention patents</strong>.
   </p>
   <p>
-    Additionally, I have led one project funded by the <strong>National Natural Science Foundation</strong>,
+    <!--Additionally, I have led one project funded by the <strong>National Natural Science Foundation</strong>,
     one project funded by the <strong>Jiangxi Provincial Natural Science Foundation</strong>,
-    and <strong>three other provincial-level projects</strong>.
+    and <strong>three other provincial-level projects</strong>. -->
   </p>
  
 
