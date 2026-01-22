@@ -157,7 +157,7 @@ redirect_from:
 <div class="paper-list">
   <div class="paper-item">
     <!-- 图片部分 -->
-      <img src="/assets/images/CAVW_SinMDGan" 
+      <img src="/assets/images/2026CAVW_SinMDGan" 
            alt="SinMDGan: A Hybrid Deep Learning Framework for Single Motion Synthesis Using Diffusion-GAN Models"
            style="width: 160px; height: 120px; margin-right: 20px;"
            >
