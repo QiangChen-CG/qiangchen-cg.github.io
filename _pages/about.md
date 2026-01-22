@@ -11,7 +11,7 @@ redirect_from:
 <p>Assistant Professor. Jiangxi Provincial Key Laboratory of Multimedia Intelligent Processing.
   </p>
   <p>
-     I am a master's and Ph.D. supervisor at the <strong>School of Computer Science and Artificial Intelligence, Jiangxi University of Finance and Economics</strong>. 
+     I am a Ph.D. and master's supervisor at the <strong>School of Computer Science and Artificial Intelligence, Jiangxi University of Finance and Economics</strong>. 
     Previously, I was a lecturer at the <strong>School of Software, Nanchang University</strong>, and conducted a visiting study at the 
     <strong>National Key Laboratory of CAD&CG, Zhejiang University</strong>, in 2018.
   </p>
@@ -46,22 +46,26 @@ redirect_from:
   <h1>Group Members</h1>
   <p>PhD Students:</p>
   <ul>
+    <li><strong>Yixuan Zha (2025, Ph.D.)</strong></li>
     <li><strong>Tingsong Lu (2023, Ph.D., Co-supervised)</strong></li>
   </ul>
   <p>Master Students:</p>
   <ul>
-    <li><strong>Feng Li (2021, Master)</strong></li>
-    <li><strong>Wenxu Guo (2021, Master)</strong></li>
-    <li><strong>Mingfang Mao (2022, Master)</strong></li>
-    <li><strong>Binsong Zuo (2022, Master)</strong></li>
-    <li><strong>Yang Xiao (2022, Master)</strong></li>
-    <li><strong>Lihui Wu (2023, Master)</strong></li>
-    <li><strong>Quan Wang (2023, Master)</strong></li>
-    <li><strong>Shikun Zhou (2023, Master)</strong></li>
-    <li><strong>Jiajun Chen (2024, Master)</strong></li>
-    <li><strong>Jundong Qiu (2024, Master)</strong></li>
-    <li><strong>Zesen Huang (2024, Master)</strong></li>
+    <li><strong>Fangyun Xu (2025, Master)</strong></li>
+    <li><strong>Guangchen Xu (2025, Master)</strong></li>
+    <li><strong>Shuhua Xu (2025, Master)</strong></li>
     <li><strong>Yuhan Cui (2024, Master)</strong></li>
+    <li><strong>Zesen Huang (2024, Master)</strong></li>
+    <li><strong>Jundong Qiu (2024, Master)</strong></li>
+    <li><strong>Jiajun Chen (2024, Master)</strong></li>
+    <li><strong>Shikun Zhou (2023, Master)</strong></li>
+    <li><strong>Quan Wang (2023, Master)</strong></li>
+    <li><strong>Lihui Wu (2023, Master)</strong></li>
+    <li><strong>Yang Xiao (2022, Master)</strong></li>
+    <li><strong>Binsong Zuo (2022, Master)</strong></li>
+    <li><strong>Mingfang Mao (2022, Master)</strong></li>
+    <li><strong>Wenxu Guo (2021, Master)</strong></li>
+    <li><strong>Feng Li (2021, Master)</strong></li>
   </ul>
 </section>
 
@@ -101,6 +105,11 @@ redirect_from:
 <section id="Project">
 <h1>Research Projects</h1>
 <ul>
+    <li>
+    Key Program of the Natural Science Foundation of Jiangxi Province, 
+    <strong><em>"Research on Full-Body Pose Reconstruction and Motion Generation of Digital Humans Based on Sparse Data in Virtual Reality Scenarios"</em></strong>, 
+    Project No. 20252BAC250014, Duration: June 2025 – June 2028.
+  </li>
   <li>
     National Natural Science Foundation Project of China, 
     <strong><em>"Research on Data-Driven Flexible Deformation and Flight Simulation of Butterflies"</em></strong>, 
@@ -144,6 +153,25 @@ redirect_from:
 
 <section id="Publications">
 <h1>Publications</h1>
+
+<div class="paper-list">
+  <div class="paper-item">
+    <!-- 图片部分 -->
+      <img src="/assets/images/CAVW_SinMDGan" 
+           alt="SinMDGan: A Hybrid Deep Learning Framework for Single Motion Synthesis Using Diffusion-GAN Models"
+           style="width: 160px; height: 120px; margin-right: 20px;"
+           >
+    <!-- 文章内容部分 -->
+    <div class="paper-content">
+      <h3 class="paper-title">SinMDGan: A Hybrid Deep Learning Framework for Single Motion Synthesis Using Diffusion-GAN Models</h3>
+      <p class="paper-authors">
+        <strong>Qiang Chen</strong>, Binsong Zuo, Tingsong Lu, Yuming Fang, Xiaolu Mu, Chao Cai, Xiaogang Jin. SinMDGan: A Hybrid Deep Learning Framework for Single Motion Synthesis Using Diffusion‐GAN Models[J]. Computer Animation and Virtual Worlds, 2026, 37(1): e70091.
+      </p>
+      <a href="https://onlinelibrary.wiley.com/doi/10.1002/cav.70091" 
+         class="paper-link" target="_blank" rel="noopener noreferrer">[PDF]</a>       
+    </div>
+  </div>
+</div>
 
 <div class="paper-list">
   <div class="paper-item">
